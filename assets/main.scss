@@ -17,22 +17,15 @@ h3 {
   font-family: Georgia, serif;
 }
 
-.page-content {
-  max-width: 760px;
+.wrapper {
+  max-width: 720px;
+  margin: 0 auto;
 }
 
-a {
-  color: #111 !important;
-}
-
-a:visited {
-  color: #111 !important;
-}
-
-a:hover {
-  color: #111 !important;
-}
-
+a,
+a:visited,
+a:hover,
+a:focus,
 a:active {
   color: #111 !important;
 }
