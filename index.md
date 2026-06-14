@@ -1,6 +1,6 @@
 ---
-layout: home
-title: Tareldewhi
+layout: default
+title: Home
 ---
 
 Sono Max Gardin. <br> 
@@ -20,4 +20,3 @@ Questo sito è il mio archivio d'autore: racconti, romanzi in lavorazione, proge
 
 - Medium
 - Substack
-- GitHub
