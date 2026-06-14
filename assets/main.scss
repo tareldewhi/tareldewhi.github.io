@@ -18,8 +18,15 @@ h3 {
 }
 
 .wrapper {
-  max-width: 720px;
-  margin: 0 auto;
+  max-width: 720px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.page-content .wrapper {
+  max-width: 720px !important;
 }
 
 a,
@@ -29,4 +36,3 @@ a:focus,
 a:active {
   color: #111 !important;
 }
-
