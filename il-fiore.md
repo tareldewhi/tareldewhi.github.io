@@ -5,7 +5,7 @@ permalink: /il-fiore/
 
 Racconto di fantascienza.
 
-Due ragazze romane, unite oltre il tempo e lo spazio, cercano una ragione per non lasciarsi andare.
+Due ragazze romane, unite oltre il tempo e lo spazio, cercano una ragione per non lasciarsi andare.<br>
 Una storia su amicizia, memoria, intelligenze artificiali, singolarità cosmiche e desideri impossibili.
 
 ## Leggi
