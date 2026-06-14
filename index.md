@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-<br> *Noi, dunque, ci rivolgiamo ai morti. Se non altro, a coloro che possono ancora essere salvati.* <br>(Boron Meivellanis, *"Anatomia dell'animo umano"*.)
+<br> *Noi, dunque, ci rivolgiamo ai morti. Se non altro, a coloro che possono ancora essere salvati.* <br>-Boron Meivellanis, *"Anatomia dell'animo umano"*
 <br><br><br>
 Sono Max Gardin.<br> 
 Scrivo fantascienza su esseri umani, macchine pensanti, memoria, desiderio e spazi impossibili. <br>
