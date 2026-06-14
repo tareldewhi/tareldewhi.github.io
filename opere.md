@@ -3,11 +3,11 @@ layout: default
 title: Opere
 ---
 
-## Opere
+## Narrattiva
 
 - [Il Fiore – La vera storia di Chiara e Vallì](/il-fiore/)
 - [Il Giardino degli Spazi Ritorti](/il-giardino/)
 
-## Progetti
+## Ricerca
 
 - [The Human Message-Symbiosis](/human-message/)
