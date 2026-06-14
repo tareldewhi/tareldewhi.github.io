@@ -1,9 +1,7 @@
 ---
-title: Il Fiore
+title: Il Fiore - La vera storia di Chiara e Vallì
 permalink: /il-fiore/
 ---
-
-# Il Fiore – La vera storia di Chiara e Vallì
 
 Racconto di fantascienza.
 
