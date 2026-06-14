@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-<div class="epigraph"> Noi, dunque, ci rivolgiamo ai morti. Se non altro, a coloro che possono ancora essere salvati. <br><br>— Boron Meivellanis, *Anatomia dell'animo umano*<br>(*Il Giardino degli Spazi Ritorti*)</div>
+<div class="epigraph"> Noi, dunque, ci rivolgiamo ai morti. Se non altro, a coloro che possono ancora essere salvati. <br><br>— Boron Meivellanis, <i>Anatomia dell'animo umano</i>i><br>(*Il Giardino degli Spazi Ritorti*)</div>
 
 <br><br><br>
 Sono Max Gardin.<br> 
