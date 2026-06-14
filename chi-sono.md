@@ -3,11 +3,12 @@ layout: default
 title: Chi sono
 ---
 
-Sono Max Gardin. <br> 
-Scrivo fantascienza su esseri umani, macchine pensanti, memoria, desiderio e spazi impossibili. <br>
-Questo sito è il mio archivio d'autore: racconti, romanzi in lavorazione, progetti e appunti di ricerca narrativa.
+Max Gardin. <br> 
+Vivo a Roma e altrove. Scrivo in italiano e in inglese.
+Le cose che scrivo non sono mai state pubblicate se non, talvolta, qui e là nella rete.
 
 
-### Link
+
+### Altro
 - Medium
-- Substack
+- Substack 
