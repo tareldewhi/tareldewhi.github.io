@@ -3,6 +3,5 @@ description: Archivio d'autore
 theme: minima
 
 header_pages:
-  - index.md
   - chi-sono.md
   - opere.md
