@@ -7,8 +7,8 @@ Max Gardin. <br>
 Vivo a Roma e altrove. Scrivo in italiano e in inglese.<br>
 Racconto storie di uomini e macchine.
 
+<br>
 
-
-### Altro
+### Link
 - Medium
 - Substack 
