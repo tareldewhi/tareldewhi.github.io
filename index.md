@@ -10,9 +10,12 @@ Questo sito è il mio archivio d'autore: racconti, romanzi in lavorazione, proge
 
 ## Opere
 
-- **Il Fiore – La vera storia di Chiara e Vallì**
-- **Il Giardino degli Spazi Ritorti**
-- **Human Message**/**Symbiosis** [EN]
+- (racconto lungo) [Il Fiore – La vera storia di Chiara e Vallì](/il-fiore/)
+- (romanzo) Il Giardino degli Spazi Ritorti
+
+## Progetti
+
+- (cibernetica e comunicazione) The Human Message / Symbiosis
 
 ## Link
 
