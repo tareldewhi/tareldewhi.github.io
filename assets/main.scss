@@ -56,3 +56,17 @@ blockquote {
   color: #555;
   opacity: 0.8;
 }
+.work-link {
+    text-align: left;
+    margin-top: 2rem;
+    font-size: 0.75em;
+}
+
+.work-link a {
+    color: #111 !important;
+    text-decoration: none;
+}
+
+.work-link a:hover {
+    text-decoration: underline;
+}
