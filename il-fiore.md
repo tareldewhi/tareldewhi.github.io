@@ -17,13 +17,9 @@ Una storia su amicizia, memoria, intelligenze artificiali, singolarità cosmiche
 
 
 <div class="work-link">
-    <a href="/assets/pdf/il-fiore.pdf">
-      PDF
-    </a>
-</div><div class="work-link">
-    <a href="">
-       Leggi su Medium
-    </a>
+    <a href="/assets/pdf/il-fiore.pdf">PDF</a>
+    .
+    <a href="">Leggi su Medium</a>
 </div>
 
 
