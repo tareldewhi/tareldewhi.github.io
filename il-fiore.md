@@ -10,7 +10,7 @@ permalink: /il-fiore/
 **Il Fiore - La vera storia di Chiara e Vallì**<br>
 <div class="epigraph-source">Racconto di fantascienza | 71.164 caratteri · 35 pagine · 45–60 minuti di lettura</div>
 <br>
-Due ragazze romane, unite oltre il tempo e lo spazio, cercano una ragione per non lasciarsi andare.
+Due ragazze romane, unite oltre il tempo e lo spazio, cercano una ragione per non lasciarsi andare.<br>
 Una storia su amicizia, memoria, intelligenze artificiali, singolarità cosmiche e desideri impossibili.
 <br><br>
 
