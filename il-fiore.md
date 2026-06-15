@@ -18,11 +18,11 @@ Una storia su amicizia, memoria, intelligenze artificiali, singolarità cosmiche
 
 <div class="work-link">
     <a href="/assets/pdf/il-fiore.pdf">
-       -Il Fiore (PDF)
+      PDF
     </a>
 </div><div class="work-link">
     <a href="">
-       -Leggi su Medium
+       Leggi su Medium
     </a>
 </div>
 
