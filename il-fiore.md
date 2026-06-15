@@ -12,7 +12,8 @@ permalink: /il-fiore/
 <br>
 Due ragazze romane, unite oltre il tempo e lo spazio, cercano una ragione per non lasciarsi andare.<br>
 Una storia su amicizia, memoria, intelligenze artificiali, singolarità cosmiche e desideri impossibili.
-<br><br>
+<br>
+<br>
 
 
 <div class="work-link">
