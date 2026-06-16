@@ -3,7 +3,7 @@ layout: default
 title: Opere
 ---
 
-## Narrattiva
+## Narrativa
 
 - [Il Fiore – La vera storia di Chiara e Vallì](/il-fiore/)
 - [Il Giardino degli Spazi Ritorti](/il-giardino/)
