@@ -17,7 +17,7 @@ Una storia su amicizia, memoria, intelligenze artificiali, singolarità cosmiche
 
 
 <div class="work-link">
-    <a href="/assets/pdf/il-fiore.pdf">PDF</a>
+    <a href="/assets/PDF/Il Fiore-Max Gardin.pdf">PDF</a>
      | 
     <a href="">Leggi su Medium</a>
 </div>
