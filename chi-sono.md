@@ -11,8 +11,8 @@ Racconto storie di uomini e macchine.
 
 ### Link
 
-<div class="work-link"> <a href="https://medium.com/@blu.di.rlyeh">Medium</a></div><br>
-   <div class="work-link"> <a href="https://substack.com/@maxgardin">Substack</a></div>
+<div class="work-link"> <a href="https://medium.com/@blu.di.rlyeh">- Medium</a></div>
+   <div class="work-link"> <a href="https://substack.com/@maxgardin">- Substack</a></div>
 
 - Medium
 - Substack 
