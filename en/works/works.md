@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Works
-permalink: /en/
+permalink: /en/works/
 ---
 
 ## Fiction
