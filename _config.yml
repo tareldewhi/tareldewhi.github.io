@@ -5,3 +5,8 @@ theme: minima
 header_pages:
   - chi-sono.md
   - opere.md
+en/
+  index.md
+  about.md
+  works.md
+  the-flower.md
