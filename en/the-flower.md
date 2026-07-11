@@ -1,7 +1,7 @@
 ---
 layout: default
 title: The Flower – The True Story of Chiara and Vallì
-permalink: /the-flower/
+permalink: /en/
 ---
 
 <div class="epigraph">«I know!» And she gives me a kiss before leaving.<br><br> From the window of our little studio, I see her walking briskly toward the Junction.<br> <i>The rough little Dalston girl.</i> With her tiny eco designer case and the cargo pants branded Kittesencula. <br> My bestie. My London. <br><div class="epigraph-source">— Max Gardin, <i>The Flower – The True Story of Chiara and Vallì</i></div></div>
