@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About
-permalink: /en/
+permalink: /en/about/
 ---
 <br><br><br>
 Max Gardin. <br> 
