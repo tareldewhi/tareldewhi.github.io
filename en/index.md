@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Home
+permalink: /en/
 ---
 <nav class="language-nav">
   <a href="/en/">Home</a>
