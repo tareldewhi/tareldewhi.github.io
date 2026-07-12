@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Opere
+lang: it
 permalink: /opere/
 ---
 
