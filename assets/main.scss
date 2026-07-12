@@ -104,3 +104,32 @@ blockquote {
 .link-separator {
   margin: 0 0.6rem;
 }
+.footer-col-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.footer-col-1,
+.footer-col-3 {
+  width: 50%;
+}
+
+.footer-col-3 {
+  text-align: right;
+}
+@media screen and (max-width: 600px) {
+  .footer-col-wrapper {
+    display: block;
+  }
+
+  .footer-col-1,
+  .footer-col-3 {
+    width: 100%;
+    text-align: left;
+  }
+
+  .footer-col-3 {
+    margin-top: 0.5rem;
+  }
+}
