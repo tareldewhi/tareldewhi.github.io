@@ -9,7 +9,7 @@ permalink: /the-garden/
 
 <br><br>
 <div class="work-title"><b>The Garden of Twisted Spaces</b></div>
-<div class="work-info">Science Fiction novel | ... characters · xx pagine · xx minuti di lettura</div>
+<div class="work-info">Science fiction novel | ... characters · xx pages · xx minutes</div>
 <br>
 1<br>
 1
