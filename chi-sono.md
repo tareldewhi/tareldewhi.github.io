@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Chi sono
+permalink: /chi-sono/
 ---
 <br><br><br>
 Max Gardin. <br> 
