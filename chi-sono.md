@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Chi sono
+lang: it
 permalink: /chi-sono/
 ---
 <br><br><br>
