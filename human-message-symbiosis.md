@@ -1,5 +1,7 @@
 ---
-title: The Human Message / Symbiosis
+layout: default
+title: Human Message / Symbiosis
+permalink: /human-message-symbiosis/
 ---
 
 # Human Message
