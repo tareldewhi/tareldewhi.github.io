@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Home
+lang: it
 ---
 <div class="epigraph"> Noi, dunque, ci rivolgiamo ai morti. Se non altro, a coloro che possono ancora essere salvati. <br><div class="epigraph-source">— Boron Meivellanis, <i>Anatomia dell'animo umano</i></div></div>
 
