@@ -4,7 +4,7 @@ title: Il Fiore - La vera storia di Chiara e Vallì
 permalink: /il-fiore/
 ---
 
-<div class="epigraph">«Lo so!». E mi dà un bacio prima di uscire. <br><br> Dalla finestra del nostro piccolo studio, la vedo camminare svelta svelta verso la Junction.<br> <i>La burinella di Dalston</i>. Con la sua valigettina eco da stilista e i pantaloni cargo griffati Kittesencula.<br> La mia bestie. La mia Londra.</div> <br><div class="epigraph-source">— Max Gardin, <i>Il Fiore - La vera storia di Chiara e Vallì</i></div>
+<div class="epigraph">«Lo so!». E mi dà un bacio prima di uscire. <br><br> Dalla finestra del nostro piccolo studio, la vedo camminare svelta svelta verso la Junction.<br> <i>La burinella di Dalston</i>. Con la sua valigettina eco da stilista e i pantaloni cargo griffati Kittesencula.<br> La mia bestie. La mia Londra.<br><div class="epigraph-source">— Max Gardin, <i>Il Fiore - La vera storia di Chiara e Vallì</i></div></div> 
 
 <br><br>
 <div class="work-title"><b>Il Fiore - La vera storia di Chiara e Vallì</b></div>
