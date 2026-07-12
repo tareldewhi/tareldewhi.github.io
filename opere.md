@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Opere
+permalink: /opere/
 ---
 
 ## Narrativa
