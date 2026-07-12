@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Il Fiore - La vera storia di Chiara e Vallì
+lang: it
 permalink: /il-fiore/
 ---
 
