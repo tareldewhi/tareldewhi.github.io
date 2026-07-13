@@ -3,6 +3,8 @@ layout: default
 title: Home
 lang: en
 permalink: /en/
+alternate_it: https://tareldewhi.it/
+alternate_en: https://tareldewhi.it/en/
 ---
 <div class="epigraph"> We therefore turn to the dead. If nothing else, to those who can still be saved.<br><div class="epigraph-source">— Boron Meivellanis, <i>Anatomy of the Human Soul</i></div></div>
 
