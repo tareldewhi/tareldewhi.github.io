@@ -3,6 +3,8 @@ layout: default
 title: Il Fiore - La vera storia di Chiara e Vallì
 lang: it
 permalink: /il-fiore/
+alternate_it: https://tareldewhi.it/il-fiore/
+alternate_en: https://tareldewhi.it/en/the-flower/
 ---
 
 <div class="epigraph">«Lo so!». E mi dà un bacio prima di uscire. <br><br> Dalla finestra del nostro piccolo studio, la vedo camminare svelta svelta verso la Junction.<br> <i>La burinella di Dalston</i>. Con la sua valigettina eco da stilista e i pantaloni cargo griffati Kittesencula.<br> La mia bestie. La mia Londra.<br><div class="epigraph-source">— Max Gardin, <i>Il Fiore - La vera storia di Chiara e Vallì</i></div></div> 
