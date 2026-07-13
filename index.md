@@ -2,6 +2,8 @@
 layout: default
 title: Home
 lang: it
+alternate_it: https://tareldewhi.it/
+alternate_en: https://tareldewhi.it/en/
 ---
 <div class="epigraph"> Noi, dunque, ci rivolgiamo ai morti. Se non altro, a coloro che possono ancora essere salvati. <br><div class="epigraph-source">— Boron Meivellanis, <i>Anatomia dell'animo umano</i></div></div>
 
