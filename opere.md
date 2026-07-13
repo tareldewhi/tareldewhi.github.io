@@ -3,6 +3,8 @@ layout: default
 title: Opere
 lang: it
 permalink: /opere/
+alternate_it: https://tareldewhi.it/opere/
+alternate_en: https://tareldewhi.it/en/works/
 ---
 
 ## Narrativa
