@@ -3,6 +3,8 @@ layout: default
 title: Works
 lang: en
 permalink: /en/works/
+alternate_it: https://tareldewhi.it/opere/
+alternate_en: https://tareldewhi.it/en/works/
 ---
 
 ## Fiction
