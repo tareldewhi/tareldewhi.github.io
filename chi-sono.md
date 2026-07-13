@@ -3,6 +3,8 @@ layout: default
 title: Chi sono
 lang: it
 permalink: /chi-sono/
+alternate_it: https://tareldewhi.it/chi-sono/
+alternate_en: https://tareldewhi.it/en/about/
 ---
 <br><br><br>
 Max Gardin. <br> 
