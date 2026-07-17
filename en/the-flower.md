@@ -11,7 +11,7 @@ alternate_en: https://tareldewhi.it/en/the-flower/
 
 <br><br>
 <div class="work-title"><b>The Flower – The True Story of Chiara and Vallì</b></div>
-<div class="work-info">Science fiction novella | 70.419 characters · 35 pages · 45–60 minutes</div>
+<div class="work-info">Science fiction novella | 71.060 characters · 35 pages · 45–60 minutes</div>
 <br>
 Two girls, bound together beyond time and space, search for a reason not to let go.<br>
 A story about friendship, memory, artificial intelligence, cosmic singularities, and impossible desires.
