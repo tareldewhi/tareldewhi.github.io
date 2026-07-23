@@ -11,7 +11,7 @@ alternate_en: https://tareldewhi.it/en/the-flower/
 
 <br><br>
 <div class="work-title"><b>Il Fiore - La vera storia di Chiara e Vallì</b></div>
-<div class="work-info">Racconto di fantascienza | 73.646 caratteri · 35 pagine · 45–60 minuti di lettura</div>
+<div class="work-info">Racconto di fantascienza | 73.685 caratteri · 35 pagine · 45–60 minuti di lettura</div>
 <br>
 Due ragazze, unite oltre il tempo e lo spazio, cercano una ragione per non lasciarsi andare.<br>
 Una storia su amicizia, memoria, intelligenze artificiali, singolarità cosmiche e desideri impossibili.
