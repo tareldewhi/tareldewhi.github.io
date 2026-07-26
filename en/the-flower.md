@@ -15,7 +15,7 @@ alternate_en: https://tareldewhi.it/en/the-flower/
 <br>
 Chiara lives through multiple coexisting realities: a family tragedy, the game Zeit, an automated United States, the abuse at the Sin club, a coma, and the Assumption of Mary into the black hole Sagittarius A*.
 <br>
-Throughout it all, there are only three constants.   <br><br>
+In all of this, there is only one constant: Chiara and Vallì.<br><br>
 A story about friendship, memory, artificial intelligence, cosmic singularities, trauma and impossible desires.
 <br>
 <br>
