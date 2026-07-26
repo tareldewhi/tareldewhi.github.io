@@ -13,7 +13,7 @@ alternate_en: https://tareldewhi.it/en/the-flower/
 <div class="work-title"><b>Il Fiore - La vera storia di Chiara e Vallì</b></div>
 <div class="work-info">Racconto di fantascienza | 73.064 caratteri · 35 pagine · 45–60 minuti di lettura</div>
 <br>
-Chiara vive molteplici realtà coesistenti: un dramma familiare, il gioco Zeit, gli USA automatizzati, l’abuso al club Sin, il coma, l’Assunzione di Maria nel buco nero Sagittarius A*. <br> In tutto questo ci sono solo tre costanti.<br><br>
+Chiara vive molteplici realtà coesistenti: un dramma familiare, il gioco Zeit, gli USA automatizzati, l’abuso al club Sin, il coma, l’Assunzione di Maria nel buco nero Sagittarius A*. <br> In tutto questo, c'è solo una costante: Chiara e Vallì.<br><br>
 Una storia su amicizia, memoria, intelligenze artificiali, singolarità cosmiche, traumi e desideri impossibili.
 <br>
 <br>
