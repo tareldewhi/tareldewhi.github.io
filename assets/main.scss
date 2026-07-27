@@ -133,227 +133,58 @@ blockquote {
     margin-top: 0.5rem;
   }
 }
-/* =========================================================
-   HUMAN MESSAGE / SYMBIOSIS
-   ========================================================= */
+/* Human Message / Symbiosis */
 
 .human-message-page {
-  --hm-text-secondary: #55534f;
-  --hm-rule: #d8d5ce;
-  --hm-accent: #77736c;
-}
-
-
-/* Titolo e introduzione
-   --------------------------------------------------------- */
-
-.hm-hero {
-  margin-bottom: 58px;
-}
-
-.hm-page-title {
-  margin: 0 0 20px;
-  font-family: "Cormorant Garamond", serif;
-  font-size: 36px;
-  font-weight: 400;
-  line-height: 1.08;
-  letter-spacing: -0.015em;
-}
-
-.hm-title-separator {
-  margin: 0 0.1em;
-  color: var(--hm-accent);
-  font-weight: 300;
+  font-size: 17px;
+  line-height: 1.68;
 }
 
 .hm-context {
-  max-width: 680px;
-  margin: 0;
-  color: var(--hm-text-secondary);
-  font-size: 16px;
+  margin: 0 0 42px;
+  color: #555;
+  font-size: 15.5px;
   line-height: 1.65;
-}
-
-
-/* Sezioni principali
-   --------------------------------------------------------- */
-
-.hm-section + .hm-section {
-  margin-top: 64px;
-  padding-top: 54px;
-  border-top: 1px solid var(--hm-rule);
 }
 
 .hm-section h2 {
-  margin: 0 0 24px;
-  font-family: "Cormorant Garamond", serif;
-  font-size: 32px;
-  font-weight: 400;
-  line-height: 1.2;
+  margin: 0 0 18px;
+  font-size: 28px;
+  line-height: 1.25;
 }
 
 .hm-section p {
-  margin: 0 0 1.35rem;
+  margin: 0 0 1.25rem;
 }
 
-
-/* Domanda centrale di Human Message
-   --------------------------------------------------------- */
-
-.hm-question {
-  max-width: 650px;
-  margin: 30px 0 !important;
-  font-family: "Cormorant Garamond", serif;
-  font-size: 24px;
-  line-height: 1.42;
+.hm-symbiosis {
+  margin-top: 46px;
+  padding-top: 40px;
+  border-top: 1px solid #ddd;
 }
 
-
-/* Caratteristiche biocomportamentali
-   --------------------------------------------------------- */
-
-.hm-traits {
-  display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 10px 30px;
-
-  margin: 26px 0 32px;
-  padding: 21px 0;
-
-  border-top: 1px solid var(--hm-rule);
-  border-bottom: 1px solid var(--hm-rule);
-
-  color: #393835;
-  font-size: 16px;
-  line-height: 1.55;
-  list-style: none;
+.hm-section p:last-child {
+  margin-bottom: 0;
 }
-
-.hm-traits li {
-  position: relative;
-  margin: 0;
-  padding-left: 16px;
-}
-
-.hm-traits li::before {
-  position: absolute;
-  top: 0.7em;
-  left: 0;
-
-  width: 4px;
-  height: 4px;
-
-  background: var(--hm-accent);
-  border-radius: 50%;
-  content: "";
-}
-
-
-/* Passaggio fra i due progetti
-   --------------------------------------------------------- */
-
-.hm-transition {
-  margin: 32px 0 0 !important;
-  font-family: "Cormorant Garamond", serif;
-  font-size: 24px;
-  line-height: 1.4;
-}
-
-
-/* Principio centrale di Symbiosis
-   --------------------------------------------------------- */
-
-.hm-principle {
-  margin: 0 0 30px !important;
-  padding-left: 23px;
-
-  border-left: 1px solid var(--hm-accent);
-
-  font-family: "Cormorant Garamond", serif;
-  font-size: 25px;
-  line-height: 1.4;
-}
-
-
-/* Definizione del contenuto di Symbiosis
-   --------------------------------------------------------- */
-
-.hm-core {
-  margin: 32px 0 !important;
-  font-size: 20px;
-  line-height: 1.6;
-}
-
-
-/* Applicazioni terrestri: informazione secondaria
- --------------------------------------------------------- */
-
-.hm-applications {
-  margin: 34px 0 0 !important;
-  padding-top: 24px;
-
-  border-top: 1px solid var(--hm-rule);
-
-  color: var(--hm-text-secondary);
-  font-size: 16px;
-  line-height: 1.65;
-}
-
-
-/* Versione mobile
-   --------------------------------------------------------- */
 
 @media screen and (max-width: 600px) {
 
-  .hm-hero {
-    margin-bottom: 46px;
-  }
-
-  .hm-page-title {
-    font-size: 28px;
-    line-height: 1.08;
-  }
-
-  .hm-context {
-    font-size: 15.5px;
+  .human-message-page {
+    font-size: 16.5px;
     line-height: 1.65;
   }
 
-  .hm-section + .hm-section {
-    margin-top: 52px;
-    padding-top: 44px;
+  .hm-context {
+    margin-bottom: 36px;
+    font-size: 15px;
   }
 
   .hm-section h2 {
-    margin-bottom: 21px;
-    font-size: 29px;
+    font-size: 27px;
   }
 
-  .hm-question {
-    margin: 26px 0 !important;
-    font-size: 22px;
-  }
-
-  .hm-traits {
-    grid-template-columns: 1fr;
-    gap: 10px;
-    font-size: 15.5px;
-  }
-
-  .hm-transition {
-    font-size: 22px;
-  }
-
-  .hm-principle {
-    padding-left: 18px;
-    font-size: 22px;
-  }
-
-  .hm-core {
-    font-size: 18px;
-  }
-
-  .hm-applications {
-    font-size: 15.5px;
+  .hm-symbiosis {
+    margin-top: 40px;
+    padding-top: 34px;
   }
 }
