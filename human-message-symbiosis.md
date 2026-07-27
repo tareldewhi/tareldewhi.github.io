@@ -12,8 +12,8 @@ Tra il 2023 e il 2025, con il nome di Luna, ho partecipato attivamente come deco
 
 ## Human Message
 
-All’interno della comunità raccolta nel canale Discord del progetto è nato <i>The Human Message</i>, un mio percorso di ricerca personale e condivisa. 
-La domanda da cui sono partito era semplice soltanto in apparenza: che cosa dovrebbe contenere un messaggio inviato nello spazio per rappresentare sinceramente la specie umana?
+All’interno della comunità raccolta nel canale Discord del progetto è nato <i>The Human Message</i>, un mio percorso di ricerca personale e condivisa. <br>
+La domanda da cui sono partito era semplice soltanto in apparenza: che cosa dovrebbe contenere un messaggio inviato nello spazio per rappresentare sinceramente la specie umana?<br>
 Ho cercato una risposta individuando alcune caratteristiche biocomportamentali che attraversano la nostra specie e la sua storia: l’organizzazione in gruppi di individui interdipendenti; la cooperazione e il conflitto; la trasformazione dell’ambiente; l’uso di strumenti come estensione del corpo; l’immaginazione guidata dalle emozioni; la tendenza a organizzare il pensiero attraverso oggetti, funzioni e strutture; la costruzione e la trasmissione di storie.<br>
 Ma un messaggio rappresentativo non sarebbe ancora necessariamente un messaggio comprensibile. *The Human Message* si è quindi posto un secondo problema: determinare quali caratteristiche debba possedere un messaggio per essere autonomo, autosufficiente e interattivo, capace non soltanto di trasmettere informazioni, ma di sostenere una conversazione silenziosa con un’altra specie tecnologica.
 <br>
