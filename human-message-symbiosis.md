@@ -8,20 +8,12 @@ alternate_en: https://tareldewhi.it/en/human-message-symbiosis/
 ---
 
 Tra il 2023 e il 2025, con il nome di Luna, ho partecipato attivamente come decoder e citizen scientist ad *A Sign in Space*, progetto interdisciplinare ideato dall’artista Daniela de Paulis e realizzato in collaborazione con il SETI Institute, l’Agenzia Spaziale Europea, il Green Bank Observatory e l’INAF.
+<br><br>
+All’interno della comunità raccolta nel canale Discord del progetto è nato *The Human Message*, un mio percorso di ricerca personale sulle caratteristiche che dovrebbe avere un messaggio inviato nello spazio per essere rappresentativo, autosufficiente e interattivo.
 <br>
-All’interno della comunità raccolta nel canale Discord del progetto è nato *The Human Message*, un mio percorso di ricerca personale e condivisa. 
-La domanda da cui sono partito era semplice soltanto in apparenza: che cosa dovrebbe contenere un messaggio inviato nello spazio per rappresentare sinceramente la specie umana?
-Ho cercato una risposta individuando alcune caratteristiche biocomportamentali che attraversano la nostra specie e la sua storia: l’organizzazione in gruppi di individui interdipendenti; la cooperazione e il conflitto; la trasformazione dell’ambiente; l’uso di strumenti come estensione del corpo; l’immaginazione guidata dalle emozioni; la tendenza a organizzare il pensiero attraverso oggetti, funzioni e strutture; la costruzione e la trasmissione di storie.
-<br>
-Ma un messaggio rappresentativo non sarebbe ancora necessariamente un messaggio comprensibile. Quindi, mi sono posto un altro problema: quali caratteristiche dovrebbe possedere un messaggio per essere autonomo, autosufficiente e interattivo, capace non soltanto di trasmettere informazioni, ma di sostenere una conversazione silenziosa con un’altra specie tecnologica?
 Da questa ricerca è nato *Symbiosis*.
-
 *Symbiosis* parte da un’ipotesi: la reciproca comprensione è impossibile senza un contesto condiviso.<br> 
 Per questo non cerca di trasmettere significati già stabiliti né di imporre all’altra specie un sistema di comunicazione umano. Cerca invece di creare le condizioni perché un contesto comune possa formarsi attraverso l’interazione.
 <br>
-Il framework prevede un dispositivo capace di alternare le proprie azioni a quelle di un agente senziente. Il dispositivo opera secondo un insieme limitato e coerente di regole formali, mentre un’intelligenza artificiale analizza le interazioni e propone adattamenti che non devono violare la coerenza della macchina. Azione e reazione si modificano così reciprocamente e, nel tempo, possono produrre regolarità, riferimenti e significati che nessuno dei due partecipanti possedeva in precedenza.<br>
-Il contenuto di *Symbiosis* non è dunque un’informazione preparata prima dell’incontro. È il contesto interspecifico costruito durante l’incontro stesso.
-<br>
-Nato come possibile approccio alla comunicazione con una specie extraterrestre, *Symbiosis* può essere studiato e sperimentato sulla Terra attraverso l’interazione con specie non umane dotate di curiosità, capacità di riconoscere strutture e attitudine all’uso o alla manipolazione di strumenti, come primati, corvidi, cetacei e polpi.
-
-Lo scopo non è insegnare loro il nostro linguaggio. È scoprire se due intelligenze differenti possano costruire insieme qualcosa che, prima dell’interazione, non apparteneva interamente a nessuna delle due.
+Il framework teorico prevede un dispositivo capace di alternare le proprie azioni a quelle di un agente senziente. Il dispositivo opera secondo un insieme limitato e coerente di regole formali, mentre un’intelligenza artificiale analizza le interazioni e propone adattamenti che non devono violare la coerenza della macchina. Azione e reazione si modificano così reciprocamente e, nel tempo, possono produrre regolarità, riferimenti e significati che nessuno dei due partecipanti possedeva in precedenza.<br>
+Poiché il framework prevede un disposito hardware non è un approccio utilizzabile per un messaggio nello spazio, ma può essere sperimentato sulla Terra. Con gli "alieni" che condividono con noi questo pianeta. Specie curiose con capacità di riconoscere strutture e manipolare strumenti. Come primati, polpi, cetacei e corvidi.
