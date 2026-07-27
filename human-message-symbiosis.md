@@ -7,6 +7,9 @@ alternate_it: https://tareldewhi.it/human-message-symbiosis/
 alternate_en: https://tareldewhi.it/en/human-message-symbiosis/
 ---
 
+<div class="epigraph">A successful  communication between different species (or forms of intelligence) requires the establishment or possession of a shared context. <br>Without such a context, mutual understanding would be impossible, as there would be no common ground or framework for interpreting signals, symbols, or behaviors<div class="epigraph-source">— Luna, <i>Introducing Symbiosis</i>, A Sign in Space Discord channel, September 12, 2024</div></div> 
+
+
 Tra il 2023 e il 2025, con il nome di Luna, ho partecipato attivamente come decoder e citizen scientist ad *A Sign in Space*, un progetto interdisciplinare ideato dall’artista Daniela de Paulis e realizzato in collaborazione con il SETI Institute, l’Agenzia Spaziale Europea, il Green Bank Observatory e l’INAF.
 <br><br>
 
