@@ -10,8 +10,7 @@ alternate_en: https://tareldewhi.it/en/human-message-symbiosis/
 
 
 
-<div class="epigraph">A successful  communication between different species (or forms of intelligence) requires the establishment or possession of a shared context. <br>Without such a context, mutual understanding would be impossible,<br> as there would be no common ground or framework for interpreting signals, symbols, or behaviors<div class="epigraph-source">— Luna, <i>Introducing Symbiosis</i>, A Sign in Space Discord Channel. September 12, 2024</div></div> 
-<br><br>
+
 <div class="human-message-page">
 
   <header class="hm-hero">
