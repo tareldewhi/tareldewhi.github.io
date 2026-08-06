@@ -11,7 +11,7 @@ alternate_en: https://tareldewhi.it/en/the-flower/
 
 <br><br>
 <div class="work-title"><b>The Flower – The True Story of Chiara and Vallì</b></div>
-<div class="work-info">Science fiction novella | 70.479 characters · 35 pages · 45–60 minutes</div>
+<div class="work-info">Science fiction novella | 69.724 characters · 38 pages · 60–80 minutes</div>
 <br>
 Chiara lives through multiple coexisting realities: a family tragedy, the game Zeit, an automated United States, the abuse at the Sin club, a coma, and the Assumption of Mary into the black hole Sagittarius A*.
 <br>
