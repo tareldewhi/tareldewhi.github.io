@@ -1,1 +1,35 @@
+---
+layout: default
+title: Il mio tempo in A Sign in Space
+lang: it
+permalink: /asis/
+alternate_it: https://tareldewhi.it/asis/
+alternate_en: https://tareldewhi.it/en/asisen/
+---
+
+<div class="epigraph">«Lo so!». E mi dà un bacio prima di uscire. <br><br> Dalla finestra del nostro piccolo studio, la vedo camminare svelta svelta verso la Junction.<br> <i>La burinella di Dalston</i>. Con la sua valigettina eco da stilista e i pantaloni cargo griffati Kittesencula.<br> La mia bestie. La mia Londra.<br><div class="epigraph-source">— Max Gardin, <i>Il Fiore - La vera storia di Chiara e Vallì</i></div></div> 
+
+Tra il 2023 e il 2025, con il nome di Luna, ho partecipato attivamente come decoder e citizen scientist ad <i>A Sign in Space</i>, un progetto interdisciplinare ideato dall’artista Daniela de Paulis e realizzato in collaborazione con il SETI Institute, l’Agenzia Spaziale Europea, il Green Bank Observatory e l’INAF. 
+<br><br>
+<p>
+  All’interno della comunità raccolta nel canale Discord del progetto è nato <em>The Human Message</em>, un mio percorso di ricerca personale e condivisa.
+</p>
+<div class="work-link">
+    <a href="human-message">The Human Message</a>
+     | 
+    <a href="human-message">Symbiosis</a>
+</div>
+
+
+<div class="work-title"><b>La forma del Messaggio</b></div>
+<div class="work-info">Articolo divulgativo | 1.000 caratteri · 3 pagine · 5-10 minuti di lettura</div>
+<br>
+Un articolo sulla mia esperienza personale in A Sign in Space scritto su richiesta di Daniela de Paulis<br><br>
+Versione italiana rivista e riformattata nell'agosto 2026 (originale: marzo 2026). Una traduzione parziale è stata pubblicata in Lamb, D.; Mekel, J., Alien Horizons: Exploring Intelligence in the Search for Extraterrestrials, Kendall Hunt Publishing, 2026.
+<br>
+<br>
+
+
+
+
 
