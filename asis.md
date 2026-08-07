@@ -26,7 +26,6 @@ Tra il 2023 e il 2025, con il nome di Luna, ho partecipato attivamente come deco
   Il framework teorico di una macchina formale per la comunicazione interspecie.
 
 Il sistema parte da un'ipotesi: <i>la reciproca comprensione è impossibile senza un contesto condiviso</i>.
-
 Per questo, Symbiosis non cerca di trasmettere significati stabiliti né di imporre all’altra specie un sistema di comunicazione umano.
 Cerca, invece, di creare le condizioni perché un contesto comune possa formarsi attraverso l’interazione.
 </div>
