@@ -19,9 +19,6 @@ Tra il 2023 e il 2025, con il nome di Luna, ho partecipato attivamente come deco
 - [Symbiosis](/simbiosi/) <br> Symbiosis è il framework teorico di una macchina formale e parte da un’ipotesi: <i>la reciproca comprensione è impossibile senza un contesto condiviso</i>.<br>
 Per questo, Symbiosis non cerca di trasmettere significati stabiliti né di imporre all’altra specie un sistema di comunicazione umano.<br>
 Cerca invece di creare le condizioni perché un contesto comune possa formarsi attraverso l’interazione.<br>
-
-<br>
-<br>
 <br>
 <div class="work-title"><b>La forma del Messaggio</b></div>
 <div class="work-info">Un articolo divulgativo sulla mia esperienza in A Sign in Space · marzo 2026 · 3 pagine · 5-10 minuti di lettura <br> Versione italiana rivista e riformattata in agosto 2026. Una traduzione parziale è stata pubblicata in <br>Lamb, D.; Mekel, J., Alien Horizons: Exploring Intelligence in the Search for Extraterrestrials, Kendall Hunt, 2026.</div>
