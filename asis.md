@@ -1,12 +1,13 @@
 ---
 layout: default
-title: My time in A Sign in Space
+title: Il mio tempo in A Sign in Space
 lang: it
 permalink: /asis/
 alternate_it: https://tareldewhi.it/asis/
 alternate_en: https://tareldewhi.it/en/asisen/
 ---
 <br>
+## Il mio tempo in A Sign in Space
 <br>
 Tra il 2023 e il 2025 - con il nome di Luna - ho partecipato attivamente come decoder e citizen scientist ad <i>A Sign in Space</i>, un progetto interdisciplinare ideato dall’artista Daniela de Paulis e realizzato in collaborazione con il SETI Institute, l’Agenzia Spaziale Europea, il Green Bank Observatory e l’INAF. 
 <p>
