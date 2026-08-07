@@ -14,9 +14,9 @@ Tra il 2023 e il 2025 - con il nome di Luna - ho partecipato attivamente come de
   All’interno della comunità raccolta nel canale Discord del progetto è nato <em>The Human Message</em>, un mio percorso di ricerca personale e condivisa.
 </p>
 
-- [The Human Message](/human-message/) Che cosa dovrebbe contenere un messaggio inviato nello spazio per essere autonomo, interattivo e rappresentare sinceramente la specie umana?
+- [The Human Message](/human-message/) <br>Che cosa dovrebbe contenere un messaggio inviato nello spazio per essere autonomo, interattivo e rappresentare sinceramente la specie umana?
 
-- [Symbiosis](/simbiosi/) è il framework teorico di una macchina formale e parte da un’ipotesi: <i>la reciproca comprensione è impossibile senza un contesto condiviso</i>.<br>
+- [Symbiosis](/simbiosi/) <br> Symbiosis è il framework teorico di una macchina formale e parte da un’ipotesi: <i>la reciproca comprensione è impossibile senza un contesto condiviso</i>.<br>
 Per questo, Symbiosis non cerca di trasmettere significati stabiliti né di imporre all’altra specie un sistema di comunicazione umano.<br>
 Cerca invece di creare le condizioni perché un contesto comune possa formarsi attraverso l’interazione.<br>
 
