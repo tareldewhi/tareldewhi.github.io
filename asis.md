@@ -20,7 +20,7 @@ E se anche fosse possibile identificare un messaggio rappresentativo, quali cara
 - <b>[Symbiosis](/simbiosi/)</b> <br> Symbiosis è il framework teorico di una macchina formale per la comunicazione interspecie.<br>
 Il sistema parte da un'ipotesi: <i>la reciproca comprensione è impossibile senza un contesto condiviso</i>.<br>
 Per questo, Symbiosis non cerca di trasmettere significati stabiliti né di imporre all’altra specie un sistema di comunicazione umano.<br>
-Cerca invece di creare le condizioni perché un contesto comune possa formarsi attraverso l’interazione. E di fondare, su queste esperienze condivise, le basi della comunicazione.<br>
+Cerca invece di creare le condizioni perché un contesto comune possa formarsi attraverso l’interazione. E di fondare, su queste esperienze condivise, un sistema di relazioni significativo.<br>
 <br>
 <div class="work-title"><b>La forma del Messaggio</b></div>
 <div class="work-info">Un articolo divulgativo sulla mia esperienza in A Sign in Space · marzo 2026 (rivisto nell'agosto 2026) · 3 pagine · 5-10 minuti di lettura <br> <br>Una traduzione parziale è stata pubblicata in: <br>Lamb, D.; Mekel, J., Alien Horizons: Exploring Intelligence in the Search for Extraterrestrials, Kendall Hunt, 2026.</div>
