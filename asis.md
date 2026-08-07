@@ -12,11 +12,9 @@ Tra il 2023 e il 2025, con il nome di Luna, ho partecipato attivamente come deco
 <p>
   All’interno della comunità raccolta nel canale Discord del progetto è nato <em>The Human Message</em>, un mio percorso di ricerca personale e condivisa.
 </p>
-<div class="work-link">
-    <a href="human-message">The Human Message</a>
-     | 
-    <a href="human-message">Symbiosis</a>
-</div>
+- [The Human Message](/human-message/)
+- [Symbiosis](/simbiosi/)
+
 
 
 <div class="work-title"><b>La forma del Messaggio</b></div>
@@ -25,6 +23,9 @@ Tra il 2023 e il 2025, con il nome di Luna, ho partecipato attivamente come deco
 Versione italiana rivista e riformattata nell'agosto 2026 (originale: marzo 2026). Una traduzione parziale è stata pubblicata in <br>Lamb, D.; Mekel, J., Alien Horizons: Exploring Intelligence in the Search for Extraterrestrials, Kendall Hunt Publishing, 2026.
 <br>
 <br>
+<div class="work-link">
+    <a href="/assets/PDF/La forma del messaggio-Max Gardin.pdf">PDF</a>
+</div>
 
 
 
