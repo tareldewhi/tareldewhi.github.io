@@ -14,4 +14,4 @@ alternate_en: https://tareldewhi.it/en/works/
 
 ## Ricerca
 
-- [The Human Message-Symbiosis](/asis/)
+- [Il mio tempo in <em>A Sign in Space</em>](/asis/)
