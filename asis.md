@@ -18,7 +18,7 @@ Tra il 2023 e il 2025, con il nome di Luna, ho partecipato attivamente come deco
 <br>
 <br>
 <div class="work-title"><b>La forma del Messaggio</b></div>
-<div class="work-info">Un articolo divulgativo sulla mia esperienza in A Sign in Space (Marzo 2026)| 3 pagine · 5-10 minuti di lettura <br> Versione italiana rivista e riformattata in agosto 2026. Una traduzione parziale è stata pubblicata in <br>Lamb, D.; Mekel, J., Alien Horizons: Exploring Intelligence in the Search for Extraterrestrials, Kendall Hunt, 2026.</div>
+<div class="work-info">Un articolo divulgativo sulla mia esperienza in A Sign in Space (Marzo 2026)| 3 pagine · 5-10 minuti di lettura <br><br> Versione italiana rivista e riformattata in agosto 2026. Una traduzione parziale è stata pubblicata in <br>Lamb, D.; Mekel, J., Alien Horizons: Exploring Intelligence in the Search for Extraterrestrials, Kendall Hunt, 2026.</div>
 <div class="work-link">
     <a href="/assets/PDF/La forma del messaggio-Max Gardin.pdf">PDF</a>
 </div>
