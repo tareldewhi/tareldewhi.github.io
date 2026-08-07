@@ -192,3 +192,16 @@ blockquote {
   font-size: 17px;
   line-height: 1.65;
 }
+
+.asis-projects p {
+  text-align: justify;
+  text-align-last: left;
+  hyphens: auto;
+  text-wrap: pretty;
+}
+@media screen and (max-width: 600px) {
+  .asis-projects p {
+    text-align: left;
+    hyphens: none;
+  }
+}
