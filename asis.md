@@ -22,10 +22,9 @@ Cerca invece di creare le condizioni perché un contesto comune possa formarsi a
 <br>
 <div class="work-title"><b>La forma del Messaggio</b></div>
 <div class="work-info">Un articolo divulgativo sulla mia esperienza in A Sign in Space · marzo 2026 · 3 pagine · 5-10 minuti di lettura <br> Versione italiana rivista e riformattata in agosto 2026. Una traduzione parziale è stata pubblicata in <br>Lamb, D.; Mekel, J., Alien Horizons: Exploring Intelligence in the Search for Extraterrestrials, Kendall Hunt, 2026.</div>
-<br>
-
+<div class="work-title"></div>
 <div class="work-link">
-    <a href="/assets/PDF/La forma del messaggio-Max Gardin.pdf">Leggi PDF</a>
+    <a href="/assets/PDF/La forma del messaggio-Max Gardin.pdf"><b>Leggi PDF</b>b></a>
 </div>
 
 
