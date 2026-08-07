@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Il mio tempo in A Sign in Space
+title: My time in A Sign in Space
 lang: it
 permalink: /asis/
 alternate_it: https://tareldewhi.it/asis/
