@@ -7,8 +7,6 @@ alternate_it: https://tareldewhi.it/asis/
 alternate_en: https://tareldewhi.it/en/asisen/
 ---
 
-<div class="epigraph">«Lo so!». E mi dà un bacio prima di uscire. <br><br> Dalla finestra del nostro piccolo studio, la vedo camminare svelta svelta verso la Junction.<br> <i>La burinella di Dalston</i>. Con la sua valigettina eco da stilista e i pantaloni cargo griffati Kittesencula.<br> La mia bestie. La mia Londra.<br><div class="epigraph-source">— Max Gardin, <i>Il Fiore - La vera storia di Chiara e Vallì</i></div></div> 
-
 Tra il 2023 e il 2025, con il nome di Luna, ho partecipato attivamente come decoder e citizen scientist ad <i>A Sign in Space</i>, un progetto interdisciplinare ideato dall’artista Daniela de Paulis e realizzato in collaborazione con il SETI Institute, l’Agenzia Spaziale Europea, il Green Bank Observatory e l’INAF. 
 <br><br>
 <p>
