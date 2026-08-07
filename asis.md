@@ -20,10 +20,10 @@ Tra il 2023 e il 2025, con il nome di Luna, ho partecipato attivamente come deco
 
 
 <div class="work-title"><b>La forma del Messaggio</b></div>
-<div class="work-info">Articolo divulgativo | 1.000 caratteri · 3 pagine · 5-10 minuti di lettura</div>
+<div class="work-info">Un articolo sulla mia esperienza personale in A Sign in Space scritto su richiesta di Daniela de Paulis | 1.000 caratteri · 3 pagine · 5-10 minuti di lettura</div>
 <br>
-Un articolo sulla mia esperienza personale in A Sign in Space scritto su richiesta di Daniela de Paulis<br><br>
-Versione italiana rivista e riformattata nell'agosto 2026 (originale: marzo 2026). Una traduzione parziale è stata pubblicata in Lamb, D.; Mekel, J., Alien Horizons: Exploring Intelligence in the Search for Extraterrestrials, Kendall Hunt Publishing, 2026.
+Un articolo sulla mia esperienza personale in A Sign in Space scritto su richiesta di Daniela de Paulis<br>
+Versione italiana rivista e riformattata nell'agosto 2026 (originale: marzo 2026). Una traduzione parziale è stata pubblicata in <br>Lamb, D.; Mekel, J., Alien Horizons: Exploring Intelligence in the Search for Extraterrestrials, Kendall Hunt Publishing, 2026.
 <br>
 <br>
 
