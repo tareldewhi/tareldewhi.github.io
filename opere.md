@@ -14,4 +14,4 @@ alternate_en: https://tareldewhi.it/en/works/
 
 ## Ricerca
 
-- [The Human Message-Symbiosis](/human-message/)
+- [The Human Message-Symbiosis](/asis/)
