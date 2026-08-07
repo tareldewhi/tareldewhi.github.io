@@ -15,7 +15,7 @@ Tra il 2023 e il 2025, con il nome di Luna, ho partecipato attivamente come deco
 </p>
 <div class="asis-projects" markdown="1">
 - <b>[The Human Message](/human-message/)</b> <br>Che cosa dovrebbe contenere un messaggio inviato nello spazio per rappresentare sinceramente la specie umana?<br> 
-E se anche fosse possibile identificare un messaggio rappresentativo, quali caratteristiche dovrebbe possedere per essere autosufficiente, autonomo, ed in grado di sostenere una <i>conversazione silenziosa</i> con un'altra specie tecnologica?
+E se anche fosse possibile identificare un messaggio rappresentativo, quali caratteristiche dovrebbe avere per essere autosufficiente, autonomo, ed in grado di sostenere una <i>conversazione silenziosa</i> con un'altra specie tecnologica?
 
 - <b>[Symbiosis](/simbiosi/)</b> <br> Il framework teorico di una macchina formale per la comunicazione interspecie.<br>
 Il sistema parte da un'ipotesi: <i>la reciproca comprensione è impossibile senza un contesto condiviso</i>.<br>
