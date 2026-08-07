@@ -18,9 +18,9 @@ Tra il 2023 e il 2025, con il nome di Luna, ho partecipato attivamente come deco
 E se anche fosse possibile identificare un messaggio rappresentativo, quali caratteristiche dovrebbe possedere per essere autosufficiente, autonomo, ed in grado di sostenere una conversazione silenziosa con un'altra specie tecnologica?
 
 - <b>[Symbiosis](/simbiosi/)</b> <br> Symbiosis è il framework teorico di una macchina formale per la comunicazione interspecie.<br>
-Il sistema si fonda su un’ipotesi fondamentale: <i>la reciproca comprensione è impossibile senza un contesto condiviso</i>.<br>
-Per questo, la macchina non cerca di trasmettere significati stabiliti né di imporre all’altra specie un sistema di comunicazione umano.<br>
-Cerca invece di creare le condizioni perché un contesto comune possa formarsi attraverso l’interazione e di fondare, su questa esperienza comune, le basi di un rapporto.<br>
+Il sistema parte da un'ipotesi: <i>la reciproca comprensione è impossibile senza un contesto condiviso</i>.<br>
+Per questo, Symbiosis non cerca di trasmettere significati stabiliti né di imporre all’altra specie un sistema di comunicazione umano.<br>
+Cerca invece di creare le condizioni perché un contesto comune possa formarsi attraverso l’interazione. E di fondare, su queste esperienze condivise, le basi della comunicazione.<br>
 <br>
 <div class="work-title"><b>La forma del Messaggio</b></div>
 <div class="work-info">Un articolo divulgativo sulla mia esperienza in A Sign in Space · marzo 2026 (rivisto nell'agosto 2026) · 3 pagine · 5-10 minuti di lettura <br> <br>Una traduzione parziale è stata pubblicata in: <br>Lamb, D.; Mekel, J., Alien Horizons: Exploring Intelligence in the Search for Extraterrestrials, Kendall Hunt, 2026.</div>
