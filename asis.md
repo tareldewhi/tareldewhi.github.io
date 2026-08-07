@@ -31,7 +31,7 @@ All’interno della comunità del canale Discord del progetto è nato <em>The Hu
 <div class="work-info">Un articolo divulgativo sulla mia esperienza in A Sign in Space · marzo 2026 · 3 pagine · 5-10 minuti di lettura 
 <br>Una traduzione parziale è stata pubblicata in: <br>Lamb, D.; Mekel, J.,<em>Alien Horizons: Exploring Intelligence in the Search for Extraterrestrials</em>, Kendall Hunt, 2026.</div>
 <div class="work-link">
-    <a href="/assets/PDF/La forma del messaggio-Max Gardin.pdf"><b>Leggi in PDF</b></a>
+    <a href="/assets/PDF/La forma del messaggio-Max Gardin.pdf">Leggi in PDF</a>
 </div>
 
 
