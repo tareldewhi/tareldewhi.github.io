@@ -16,9 +16,7 @@ alternate_en: https://tareldewhi.it/en/human-message/
 <p><strong>E quali caratteristiche dovrebbe possedere il messaggio stesso per poter essere riconosciuto, interpretato e ricevere una risposta da un’altra specie tecnologica?</strong></p>
 
 <p>
-  La prima domanda — nonostante decenni di tentativi da parte di progetti legati alla SETI
-  e di altri gruppi di ricerca, a partire dal messaggio di Arecibo — mi è sembrata la più
-  sfuggente e difficile a cui rispondere. Così ho iniziato dalla seconda.
+La prima domanda — esplorata per decenni attraverso diversi progetti di messaggistica interstellare, a partire dal messaggio di Arecibo — mi è sembrata la più sfuggente e difficile a cui rispondere. Così ho iniziato dalla seconda.
 </p>
 
 <p>
@@ -73,7 +71,7 @@ alternate_en: https://tareldewhi.it/en/human-message/
   attraverso ogni interazione</strong>, potevo tornare alla prima domanda.
 </p>
 
-<p>E questo sollevava immediatamente un’altra domanda:</p>
+<p>E questo sollevava immediatamente un’ulteriore domanda:</p>
 
 <p><strong>Che cos’è la specie umana? In poche parole, che cosa ci definisce come specie?</strong></p>
 
