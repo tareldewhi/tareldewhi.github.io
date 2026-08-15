@@ -16,9 +16,7 @@ alternate_en: https://tareldewhi.it/en/human-message/
 <p><strong>And what characteristics should the message itself possess in order to be recognized, interpreted and answered by another technological species?</strong></p>
 
 <p>
-  The first question — despite decades of attempts by SETI-related projects and other
-  research teams, from the Arecibo message onward — appeared to me the most elusive
-  and difficult to answer. So I started with the second one.
+ The first question — explored for decades through a variety of interstellar messaging projects, from the Arecibo message onward — still appeared to me the more elusive and difficult to answer. So I started with the second one.
 </p>
 
 <p>
