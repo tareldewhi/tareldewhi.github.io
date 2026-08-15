@@ -9,7 +9,7 @@ alternate_en: https://tareldewhi.it/en/human-message/
 
    <h1>Il Messaggio Umano</h1>
 
-<p>Il Messaggio Umano</strong> <span class="original-title">(The Human Message)</span> affronta due domande collegate:</p>
+<p><strong>Il Messaggio Umano</strong> <span class="original-title">(The Human Message)</span> affronta due domande collegate:</p>
 
 <p><strong>Che cosa dovrebbe contenere un messaggio per rappresentare la specie umana?</strong></p>
 
