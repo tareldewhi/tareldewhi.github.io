@@ -125,7 +125,7 @@ alternate_en: https://tareldewhi.it/en/human-message/
       La percezione, l’immaginazione e l’interpretazione umane sono fortemente influenzate
       da emozioni fondamentali come paura, dolore, amore e rabbia. La realtà non viene
       semplicemente osservata: viene continuamente interpretata. Questo è uno dei percorsi
-      che conducono allo <strong>storytelling</strong>.
+      che conducono alla <strong>narrazione</strong>.
     </p>
   </div>
 
@@ -135,7 +135,7 @@ alternate_en: https://tareldewhi.it/en/human-message/
       Il pensiero umano tende a organizzare la realtà attraverso oggetti, funzioni,
       relazioni e strutture. Le esperienze possono così essere scomposte, ricombinate
       e rappresentate come modelli mentali strutturati. Questo costituisce un altro
-      percorso verso lo <strong>storytelling</strong>.
+      percorso verso lo <strong>narrazione</strong>.
     </p>
   </div>
 
@@ -151,10 +151,10 @@ alternate_en: https://tareldewhi.it/en/human-message/
   </div>
 
   <div class="hm-characteristic hm-characteristic--storytelling">
-    <h3>7. Storytelling</h3>
+    <h3>7. Narrazione</h3>
     <p>
       Gli esseri umani organizzano esperienze, attori, intenzioni, cause e possibilità
-      in strutture comunicabili. Lo storytelling contribuisce all’emergere di
+      in strutture comunicabili. La narrazione contribuisce all’emergere di
       <strong>società, politica, religione, arte, esplorazione e scienza</strong>,
       espresse in modi differenti nelle diverse culture umane.
     </p>
