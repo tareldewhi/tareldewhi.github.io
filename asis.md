@@ -11,11 +11,11 @@ alternate_en: https://tareldewhi.it/en/asisen/
 
 Tra il 2023 e il 2025, con il nome di Luna, ho partecipato attivamente come decoder e citizen scientist ad <i>A Sign in Space</i>, un progetto interdisciplinare ideato dall’artista Daniela de Paulis e realizzato in collaborazione con il SETI Institute, l’Agenzia Spaziale Europea, il Green Bank Observatory e l’INAF. 
 
-All’interno della comunità del canale Discord del progetto è nato <h3 class="project-title">
-  Il Messaggio Umano <span class="original-title">(The Human Message)</span>
-</h3>, un mio percorso di ricerca personale e condivisa - successivamente evoluto in <h3 class="project-title">
-  Simbiosi <span class="original-title">(Symbiosis)</span>
-</h3> - sulla comunicazione interspecie.
+All’interno della comunità del canale Discord del progetto è nato
+<strong>Il Messaggio Umano</strong> <span class="original-title">(The Human Message)</span>,
+un mio percorso di ricerca personale e condivisa - successivamente evoluto in
+<strong>Simbiosi</strong> <span class="original-title">(Symbiosis)</span> -
+sulla comunicazione interspecie.
 
 <div class="asis-projects" markdown="1">
   
