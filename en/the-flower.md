@@ -24,5 +24,5 @@ A story of friendship, memory, artificial intelligence, cosmic singularities, tr
 <div class="work-link">
     <a href="/assets/PDF/The Flower-Max Gardin.pdf">PDF</a>
      | 
-    <a href="https://medium.com/@blu.di.rlyeh/the-flower-the-true-story-of-chiara-and-vall%C3%AC-0a5843225ad9">Read on Medium</a>
+    <a href="https://medium.com/@blu.di.rlyeh/the-flower-the-true-story-of-chiara-and-vall%C3%AC-0a5843225ad9">Read on Medium <span class="link-arrow" aria-hidden="true">↗</span></a>
 </div>
