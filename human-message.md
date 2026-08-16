@@ -70,7 +70,7 @@ La prima domanda — esplorata per decenni attraverso diversi progetti di messag
 
 </div>
 
-<hr>
+<hr class="hm-divider">
 <br>
 <p>
   Una volta chiarito che un messaggio efficace dovrebbe essere
