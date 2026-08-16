@@ -185,7 +185,7 @@ alternate_en: https://tareldewhi.it/en/human-message/
   Human modification is also perceptual. Our environments are filled with visual,
   acoustic, olfactory and symbolic signals that influence behavior and the way we
   experience space. Other species do this too: a lion's roar can instantly alter
-  another animal's perception of its surroundings. Human environments differ,
+  another animal's perception of the safety of its surroundings. Human environments differ,
   however, in the <strong>scale and complexity</strong> of this process.
 </p>
 
