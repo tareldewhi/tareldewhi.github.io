@@ -70,7 +70,7 @@ alternate_en: https://tareldewhi.it/en/human-message/
 
 </div>
 
-<hr>
+<hr class="hm-divider">
 <br>
 <p>
   Once I had clearly in mind that an effective message should be
