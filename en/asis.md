@@ -25,33 +25,22 @@ alternate_en: https://tareldewhi.it/en/asis/
 <div class="asis-projects" markdown="1">
 - <a href="/en/human-message/"><b>The Human Message</b></a>
 
-<p>
-  What should a message sent into space contain in order to honestly represent
-  the human species?
-</p>
 
-<p>
+  What should a message sent into space contain in order to honestly represent
+  the human species?<br>
   And even if it were possible to identify a representative message, what
   characteristics should it have in order to be self-contained, autonomous,
-  and capable of sustaining a silent conversation with another technological species?
-</p>
+  and capable of sustaining a <em>silent conversation</em> with another technological species?
+
 
 - <a href="/en/symbiosis/"><b>Symbiosis</b></a>
 
-<p>
-  The theoretical framework for a formal machine for interspecies communication.
-</p>
-
-<p>
-  The system starts from a hypothesis:
-  <strong>mutual understanding is impossible without a shared context.</strong>
-</p>
-
-<p>
+The theoretical framework for a formal machine for interspecies communication.<br>
+  The system starts from a hypothesis: <em>mutual understanding is impossible without a shared context.</em><br>
   For this reason, Symbiosis does not attempt to transmit predetermined meanings
   or impose a human communication system on another species. Instead, it seeks
   to create the conditions for a shared context to emerge through interaction.
-</p>
+
 </div>
 <br>
 <div class="work-title"><b>The Form of the Message</b></div>
