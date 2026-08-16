@@ -4,7 +4,7 @@ title: Il mio tempo in A Sign in Space
 lang: it
 permalink: /asis/
 alternate_it: https://tareldewhi.it/asis/
-alternate_en: https://tareldewhi.it/en/asisen/
+alternate_en: https://tareldewhi.it/en/asis/
 ---
 
 ## Il mio tempo in A Sign in Space
