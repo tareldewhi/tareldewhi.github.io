@@ -36,7 +36,7 @@ alternate_en: https://tareldewhi.it/en/asis/
 
 - <a href="/en/symbiosis/"><b>Symbiosis</b></a>
 
-The theoretical framework for a formal machine for interspecies communication.<br>
+  The theoretical framework for a formal machine for interspecies communication.<br>
   The system starts from a hypothesis: <em>mutual understanding is impossible without a shared context.</em><br>
   For this reason, Symbiosis does not attempt to transmit predetermined meanings
   or impose a human communication system on another species. Instead, it seeks
