@@ -7,7 +7,7 @@ alternate_it: https://tareldewhi.it/asis/
 alternate_en: https://tareldewhi.it/en/asisen/
 ---
 
-<h2>My Time at A Sign in Space</h2>
+## My Time at A Sign in Space
 
 <p>
   Between 2023 and 2025, under the name Luna, I actively participated as a decoder
