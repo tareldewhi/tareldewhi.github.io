@@ -11,9 +11,16 @@ alternate_en: https://tareldewhi.it/en/human-message/
 
 <p><strong>Il Messaggio Umano</strong> <span class="original-title">(The Human Message)</span> affronta due domande collegate:</p>
 
-<p><strong>Che cosa dovrebbe contenere un messaggio per rappresentare la specie umana?</strong></p>
+<div class="hm-questions">
+  <p class="hm-question">
+    Che cosa dovrebbe contenere un messaggio per rappresentare la specie umana?
+  </p>
 
-<p><strong>E quali caratteristiche dovrebbe possedere il messaggio stesso per poter essere riconosciuto, interpretato e ricevere una risposta da un’altra specie tecnologica?</strong></p>
+  <p class="hm-question">
+    E quali caratteristiche dovrebbe possedere il messaggio stesso per poter essere
+    riconosciuto, interpretato e ricevere una risposta da un’altra specie tecnologica?
+  </p>
+</div>
 
 <p>
 La prima domanda — esplorata per decenni attraverso diversi progetti di messaggistica interstellare, a partire dal messaggio di Arecibo — mi è sembrata la più sfuggente e difficile a cui rispondere. Così ho iniziato dalla seconda.
@@ -64,7 +71,7 @@ La prima domanda — esplorata per decenni attraverso diversi progetti di messag
 </div>
 
 <hr>
-
+<br>
 <p>
   Una volta chiarito che un messaggio efficace dovrebbe essere
   <strong>rappresentativo, autonomo, interattivo e capace di generare nuove informazioni
@@ -73,7 +80,9 @@ La prima domanda — esplorata per decenni attraverso diversi progetti di messag
 
 <p>E questo sollevava immediatamente un’ulteriore domanda:</p>
 
-<p><strong>Che cos’è la specie umana? In poche parole, che cosa ci definisce come specie?</strong></p>
+<p class="hm-question">
+  Che cos’è la specie umana? In poche parole, che cosa ci definisce come specie?
+</p>
 
 <h2>Un modello biocomportamentale dell’umanità</h2>
 
