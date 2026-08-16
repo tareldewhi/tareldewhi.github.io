@@ -23,7 +23,7 @@ alternate_en: https://tareldewhi.it/en/asisen/
 </p>
 
 <h3 class="project-title">
-  <a href="/human-message/">
+  <a href="/en/human-message/">
     The Human Message
   </a>
 </h3>
