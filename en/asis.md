@@ -22,11 +22,8 @@ alternate_en: https://tareldewhi.it/en/asis/
   <strong>Symbiosis</strong>, focused on interspecies communication.
 </p>
 
-<h3 class="project-title">
-  <a href="/en/human-message/">
-    The Human Message
-  </a>
-</h3>
+<div class="asis-projects" markdown="1">
+- <a href="/en/human-message/"><b>The Human Message</b></a>
 
 <p>
   What should a message sent into space contain in order to honestly represent
@@ -39,11 +36,7 @@ alternate_en: https://tareldewhi.it/en/asis/
   and capable of sustaining a silent conversation with another technological species?
 </p>
 
-<h3 class="project-title">
-  <a href="/symbiosis/">
-    Symbiosis
-  </a>
-</h3>
+- <a href="/en/symbiosis/"><b>Symbiosis</b></a>
 
 <p>
   The theoretical framework for a formal machine for interspecies communication.
@@ -59,16 +52,11 @@ alternate_en: https://tareldewhi.it/en/asis/
   or impose a human communication system on another species. Instead, it seeks
   to create the conditions for a shared context to emerge through interaction.
 </p>
-
-<h3>The Form of the Message</h3>
-
-<p>
-  A short article about my experience in <em>A Sign in Space</em>
-  · March 2026 · 3 pages · 5–10 min read
-</p>
-
-<p>
-  <a href="/assets/PDF/La%20forma%20del%20messaggio-Max%20Gardin.pdf">
-    Read the PDF <em>(In Italian)</em>
-  </a>
-</p>
+</div>
+<br>
+<div class="work-title"><b>The Form of the Message</b></div>
+<div class="work-info"> A short article about my experience in <em>A Sign in Space</em> · March 2026 · 3 pages · 5–10 min read
+<br></div>
+<div class="work-link">
+    <a href="/assets/PDF/La forma del messaggio-Max Gardin.pdf">Read in PDF <em>In Italian</em></a>
+</div>
