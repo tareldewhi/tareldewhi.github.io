@@ -170,7 +170,7 @@ La prima domanda — esplorata per decenni attraverso diversi progetti di messag
 </div>
 
 <p class="hm-more">
-  <a href="#">Approfondimento e bibliografia →</a>
+  <a href="https://discord.com/channels/1066055437457297469/1168865000136396891/1289531078003920939">Approfondimento e bibliografia →</a>
 </p>
 
 <h2>Ecosistemi Dominanti Urbanizzati</h2>
