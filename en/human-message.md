@@ -169,7 +169,7 @@ alternate_en: https://tareldewhi.it/en/human-message/
 </div>
 
 <p class="hm-more">
-  <a href="#">Further discussion and supporting literature →</a>
+  <a href="https://discord.com/channels/1066055437457297469/1168865000136396891/1289531078003920939">Further discussion and supporting literature →</a>
 </p>
 
 <h2>Urbanized Dominating Ecosystems</h2>
@@ -196,5 +196,5 @@ alternate_en: https://tareldewhi.it/en/human-message/
 </p>
 
 <p class="hm-more">
-  <a href="#">Further discussion and supporting literature →</a>
+  <a href="https://discord.com/channels/1066055437457297469/1168865000136396891/1289625048654807041">Further discussion and supporting literature →</a>
 </p>
