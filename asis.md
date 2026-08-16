@@ -19,12 +19,12 @@ sulla comunicazione interspecie.
 
 <div class="asis-projects" markdown="1">
   
-- <a href="/human-message/"><b>Il Messaggio Umano</b></a>
+- <a href="/human-message/"><b>Il Messaggio Umano</b> →</a>
      
      Che cosa dovrebbe contenere un messaggio inviato nello spazio per rappresentare sinceramente la specie umana?<br>
      E se anche fosse possibile identificare un messaggio rappresentativo, quali caratteristiche dovrebbe avere per essere autosufficiente, autonomo, ed in grado di sostenere una <i>conversazione silenziosa</i> con un'altra specie tecnologica? 
 
-- <a href="/symbiosis/"><b>Simbiosi</b></a>
+- <a href="/symbiosis/"><b>Simbiosi</b> →</a>
 
      Il framework teorico di una macchina formale per la comunicazione interspecie.<br>
      Il sistema parte da un'ipotesi: <i>la reciproca comprensione è impossibile senza un contesto condiviso</i>.<br>
@@ -35,7 +35,7 @@ sulla comunicazione interspecie.
 <div class="work-info">Un articolo divulgativo sulla mia esperienza in <em>A Sign in Space</em> · marzo 2026 · 3 pagine · 5-10 minuti di lettura 
 <br></div>
 <div class="work-link">
-    <a href="/assets/PDF/La forma del messaggio-Max Gardin.pdf">Leggi in PDF</a>
+    <a href="/assets/PDF/La forma del messaggio-Max Gardin.pdf">Leggi in PDF →</a>
 </div>
 
 
