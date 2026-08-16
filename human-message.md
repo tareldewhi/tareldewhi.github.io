@@ -187,7 +187,7 @@ La prima domanda — esplorata per decenni attraverso diversi progetti di messag
   La modificazione umana è anche percettiva. I nostri ambienti sono attraversati
   da segnali visivi, acustici, olfattivi e simbolici che influenzano il comportamento
   e il modo in cui percepiamo lo spazio. Anche altre specie fanno qualcosa di simile:
-  il ruggito di un leone può modificare istantaneamente la percezione dell’ambiente
+  il ruggito di un leone può modificare istantaneamente la percezione di sicurezza dell’ambiente
   circostante da parte di un altro animale. Gli ambienti umani si distinguono però
   per la <strong>scala e la complessità</strong> di questo processo.
 </p>
