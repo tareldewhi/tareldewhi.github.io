@@ -11,9 +11,16 @@ alternate_en: https://tareldewhi.it/en/human-message/
 
 <p>The Human Message addresses two related questions:</p>
 
-<p><strong>What should a message contain in order to represent the human species?</strong></p>
+<div class="hm-questions">
+  <p class="hm-question">
+    What should a message contain in order to represent the human species?
+  </p>
 
-<p><strong>And what characteristics should the message itself possess in order to be recognized, interpreted and answered by another technological species?</strong></p>
+  <p class="hm-question">
+    And what characteristics should the message itself possess in order to be
+    recognized, interpreted and answered by another technological species?
+  </p>
+</div>
 
 <p>
  The first question — explored for decades through a variety of interstellar messaging projects, from the Arecibo message onward — still appeared to me the more elusive and difficult to answer. So I started with the second one.
@@ -64,7 +71,7 @@ alternate_en: https://tareldewhi.it/en/human-message/
 </div>
 
 <hr>
-
+<br>
 <p>
   Once I had clearly in mind that an effective message should be
   <strong>representative, self-contained, interactive and capable of generating
@@ -73,7 +80,9 @@ alternate_en: https://tareldewhi.it/en/human-message/
 
 <p>And this immediately raised another one:</p>
 
-<p><strong>What is the human species? In a nutshell, what defines us as a species?</strong></p>
+<p class="hm-question">
+  What is the human species? In a nutshell, what defines us as a species?
+</p>
 
 <h2>A biobehavioral model of humanity</h2>
 
