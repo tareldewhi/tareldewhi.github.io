@@ -24,7 +24,7 @@ alternate_en: https://tareldewhi.it/en/asis/
 
 <div class="asis-projects" markdown="1">
   
-- <a href="/en/human-message/"><b>The Human Message</b></a>
+- <a href="/en/human-message/"><b>The Human Message</b> →</a>
 
 
   What should a message sent into space contain in order to honestly represent
@@ -34,7 +34,7 @@ alternate_en: https://tareldewhi.it/en/asis/
   and capable of sustaining a <em>silent conversation</em> with another technological species?
 
 
-- <a href="/en/symbiosis/"><b>Symbiosis</b></a>
+- <a href="/en/symbiosis/"><b>Symbiosis</b> →</a>
 
   The theoretical framework for a formal machine for interspecies communication.<br>
   The system starts from a hypothesis: <em>mutual understanding is impossible without a shared context.</em><br>
@@ -48,5 +48,5 @@ alternate_en: https://tareldewhi.it/en/asis/
 <div class="work-info"> A short article about my experience in <em>A Sign in Space</em> · March 2026 · 3 pages · 5–10 min read
 <br></div>
 <div class="work-link">
-    <a href="/assets/PDF/La forma del messaggio-Max Gardin.pdf">Read the PDF <em>(In Italian)</em></a>
+    <a href="/assets/PDF/La forma del messaggio-Max Gardin.pdf">Read the PDF <em>(In Italian) →</em></a>
 </div>
