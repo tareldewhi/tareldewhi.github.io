@@ -30,9 +30,6 @@ alternate_en: https://tareldewhi.it/en/symbiosis/
   </p>
 </div>
 
-<hr class="hm-divider">
-<br>
-
 <h2>Building a shared context</h2>
 
 <p>
@@ -66,6 +63,9 @@ alternate_en: https://tareldewhi.it/en/symbiosis/
 <p>
   <strong>The bricks are not the language. The interaction is what makes a language possible.</strong>
 </p>
+
+<hr class="hm-divider">
+<br>
 
 <h2>The formal machine</h2>
 
