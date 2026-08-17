@@ -35,7 +35,7 @@ alternate_en: https://tareldewhi.it/en/symbiosis/
 
 <p>
   Simbiosi esplora la comunicazione come un processo dinamico e iterativo tra due
-  agenti differenti. Uno è senziente: un’altra specie animale oppure — nello scenario
+  agenti differenti. <br>Uno è senziente: un’altra specie animale oppure — nello scenario
   interstellare originario — una specie tecnologica sconosciuta. L’altro è una
   <strong>macchina formale</strong>: un agente non senziente le cui possibili azioni
   sono determinate da un insieme esplicito di regole.
