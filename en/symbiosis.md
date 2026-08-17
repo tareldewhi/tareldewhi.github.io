@@ -174,7 +174,7 @@ alternate_en: https://tareldewhi.it/en/symbiosis/
 </p>
 
 <p class="hm-more">
-  <a href="DISCORD_LINK_HERE">
+  <a href="https://discord.com/channels/1066055437457297469/1168865000136396891/1283623730853056534">
     Further discussion and development of the concept
     <span class="link-arrow" aria-hidden="true">↗</span>
   </a>
