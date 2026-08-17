@@ -31,7 +31,9 @@ alternate_en: https://tareldewhi.it/en/symbiosis/
   </p>
 </div>
 
+<br>
 <h2>Costruire un contesto condiviso</h2>
+<br>
 
 <p>
   Simbiosi esplora la comunicazione come un processo dinamico e iterativo tra due
