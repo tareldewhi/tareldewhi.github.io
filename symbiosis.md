@@ -31,6 +31,7 @@ alternate_en: https://tareldewhi.it/en/symbiosis/
   </p>
 </div>
 <hr class="hm-divider">
+<br>
 <h2>Costruire un contesto condiviso</h2>
 
 <p>
