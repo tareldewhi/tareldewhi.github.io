@@ -64,9 +64,6 @@ alternate_en: https://tareldewhi.it/en/symbiosis/
   <strong>The bricks are not the language. The interaction is what makes a language possible.</strong>
 </p>
 
-<hr class="hm-divider">
-<br>
-
 <h2>The formal machine</h2>
 
 <p>
