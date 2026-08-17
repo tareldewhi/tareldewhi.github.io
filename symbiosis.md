@@ -1,4 +1,3 @@
-```html
 ---
 layout: default
 title: Simbiosi
@@ -188,4 +187,3 @@ alternate_en: https://tareldewhi.it/en/symbiosis/
     <span class="link-arrow" aria-hidden="true">↗</span>
   </a>
 </p>
-```
