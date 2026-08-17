@@ -30,6 +30,7 @@ alternate_en: https://tareldewhi.it/en/symbiosis/
   </p>
 </div>
 
+<br>
 <h2>Building a shared context</h2>
 
 <p>
