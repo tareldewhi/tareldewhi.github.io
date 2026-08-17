@@ -34,8 +34,8 @@ alternate_en: https://tareldewhi.it/en/symbiosis/
 
 <p>
   Symbiosis explores communication as a dynamic and iterative process between two
-  different agents. One is sentient: another animal species, or — in the original
-  interstellar scenario — an unknown technological species. The other is a
+  different agents. <br>One is sentient: another animal species, or — in the original
+  interstellar scenario — an unknown technological species. <br>The other is a
   <strong>formal machine</strong>: a non-sentient agent whose possible actions are
   determined by an explicit set of rules.
 </p>
@@ -48,7 +48,7 @@ alternate_en: https://tareldewhi.it/en/symbiosis/
 </p>
 
 <p>
-  Meaning is not necessarily transmitted at the beginning. It may
+  <strong>Meaning</strong> is not necessarily transmitted at the beginning. It may
   <strong>emerge progressively from the history of the interaction</strong>.
 </p>
 
