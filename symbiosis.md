@@ -10,7 +10,7 @@ alternate_en: https://tareldewhi.it/en/symbiosis/
 <h1>Simbiosi</h1>
 
 <p>
-  <strong>Simbiosi</strong> <span class="original-title">(Symbiosis)</span> parte da un’ipotesi semplice:<strong>la comprensione reciproca tra
+  <strong>Simbiosi</strong> <span class="original-title">(Symbiosis)</span> parte da un’ipotesi semplice: <strong>la comprensione reciproca tra
   specie o forme di intelligenza differenti richiede un contesto condiviso.</strong>
 </p>
 
