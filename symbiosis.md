@@ -34,8 +34,8 @@ alternate_en: https://tareldewhi.it/en/symbiosis/
 <h2>Costruire un contesto condiviso</h2>
 
 <p>
-  Simbiosi esplora la <strong>comunicazione come un processo dinamico e iterativo tra due
-  agenti differenti</strong>. <br>Uno è <strong>senziente</strong>: un’altra specie animale oppure — nello scenario
+  Simbiosi esplora la comunicazione come un processo dinamico e iterativo tra due
+  agenti differenti. <br>Uno è senziente: un’altra specie animale oppure — nello scenario
   interstellare originario — una specie tecnologica sconosciuta. <br>L’altro è una <strong>macchina formale</strong>: un agente non senziente le cui possibili azioni
   sono determinate da un insieme esplicito di regole.
 </p>
@@ -48,7 +48,7 @@ alternate_en: https://tareldewhi.it/en/symbiosis/
 </p>
 
 <p>
-  Il significato non deve necessariamente essere trasmesso all’inizio.
+  Il <strong>significato</strong> non deve necessariamente essere trasmesso all’inizio.
   Può <strong>emergere progressivamente dalla storia dell’interazione</strong>.
 </p>
 
