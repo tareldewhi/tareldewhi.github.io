@@ -27,7 +27,7 @@ sulla comunicazione interspecie.
 - <a href="/symbiosis/"><b>Simbiosi</b> <span class="link-arrow" aria-hidden="true">→</span></a>
 
      Il framework teorico di una macchina formale per la comunicazione interspecie.<br>
-     Il sistema parte da un'ipotesi: <i>la reciproca comprensione è impossibile senza un contesto condiviso</i>.<br>
+     Il sistema parte da un'ipotesi:<br> <i>la reciproca comprensione è impossibile senza un contesto condiviso</i>.<br>
      Per questo, Simbiosi non cerca di trasmettere significati stabiliti né di imporre all’altra specie un sistema di comunicazione umano. Cerca, invece, di creare le condizioni perché un contesto comune possa formarsi  attraverso l’interazione.
 </div>
 <br>
