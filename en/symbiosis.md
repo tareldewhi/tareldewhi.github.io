@@ -29,8 +29,10 @@ alternate_en: https://tareldewhi.it/en/symbiosis/
     communication began by building the context itself through interaction?
   </p>
 </div>
+
 <hr class="hm-divider">
 <br>
+
 <h2>Building a shared context</h2>
 
 <p>
