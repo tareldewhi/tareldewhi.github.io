@@ -30,7 +30,7 @@ alternate_en: https://tareldewhi.it/en/symbiosis/
     l’interazione?
   </p>
 </div>
-
+<hr class="hm-divider">
 <h2>Costruire un contesto condiviso</h2>
 
 <p>
