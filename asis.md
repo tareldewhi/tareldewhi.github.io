@@ -22,7 +22,7 @@ sulla comunicazione interspecie.
 - <a href="/human-message/"><b>Il Messaggio Umano</b> <span class="link-arrow" aria-hidden="true">→</span></a>
      
      Che cosa dovrebbe contenere un messaggio inviato nello spazio per rappresentare sinceramente la specie umana?<br>
-     E se anche fosse possibile identificare un messaggio rappresentativo, quali caratteristiche dovrebbe avere per essere autosufficiente, interattivo, ed in grado di sostenere una <i>conversazione silenziosa</i> con un'altra specie tecnologica? 
+     E se anche fosse possibile identificare un messaggio rappresentativo, quali caratteristiche dovrebbe avere per essere autosufficiente, autonomo, ed in grado di sostenere una <i>conversazione silenziosa</i> con un'altra specie tecnologica? 
 
 - <a href="/symbiosis/"><b>Simbiosi</b> <span class="link-arrow" aria-hidden="true">→</span></a>
 
