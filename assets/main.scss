@@ -361,3 +361,65 @@ blockquote {
   font-weight: 400;
   opacity: 0.5;
 }
+/* Occorrenze — Il Giardino degli Spazi Ritorti */
+
+.garden-occurrence {
+  margin: 2.7rem 0;
+}
+
+.occurrence-title {
+  margin-bottom: 0.25rem;
+  font-size: 1em;
+  font-weight: 600;
+  letter-spacing: 0.035em;
+}
+
+.occurrence-meta {
+  margin-top: 0;
+  margin-bottom: 1.1rem;
+  font-size: 0.82em;
+  font-style: italic;
+  color: #666;
+}
+
+.occurrence-text {
+  font-size: 17px;
+  line-height: 1.65;
+  text-align: justify;
+  text-wrap: pretty;
+  hyphens: auto;
+}
+
+.occurrence-quote {
+  margin: 1.2rem 0;
+  font-style: italic;
+}
+
+.occurrence-link {
+  margin-top: 1.2rem;
+}
+
+.occurrence-link a {
+  color: #111;
+}
+
+
+/* Occorrenza non ancora accessibile */
+
+.out-of-phase {
+  opacity: 0.56;
+}
+
+.out-of-phase .occurrence-title {
+  font-weight: 500;
+}
+
+
+/* Sul telefono evitiamo il giustificato */
+
+@media screen and (max-width: 600px) {
+  .occurrence-text {
+    text-align: left;
+    hyphens: none;
+  }
+}
