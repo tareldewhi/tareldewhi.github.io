@@ -80,16 +80,13 @@ alternate_en: https://tareldewhi.it/en/the-garden/
       di schianto, con un ansito stanco seguito da un gorgoglio intermittente
       che scosse il corpo di Telli come una foglia, lasciandola ammutolita.
     </p>
-
     <p>
       Fu allora che Meros iniziò a comprendere la lingua dei morti.
       A capire tutto ciò che il vocabolario dei vivi non poteva descrivere appieno.
     </p>
-
     <p>
       «Viviamo una vita sospesa» – gli confermò Telli, in un bagno di lacrime.
     </p>
-
     <p>
       «Ti pare giusto?!», gli disse con voce strozzata, rigettando ogni parola,
       non riuscendo a trattenere oltre il fiume sotterraneo della rabbia che
