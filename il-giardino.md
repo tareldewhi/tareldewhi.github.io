@@ -23,6 +23,22 @@ alternate_en: https://tareldewhi.it/en/the-garden/
   dei nuclei narrativi (più) stabili.
 </p>
 <br>
+<section class="garden-occurrence out-of-phase">
+
+  <h3 class="occurrence-title">LE MADAI REINCARNATE</h3>
+
+  <p class="occurrence-meta">
+    87–45 anni prima dell'Evento · <span>FUORI FASE</span>
+  </p>
+
+  <p class="occurrence-text">
+    Aleksandra cresce una bambina nata dal corpo di una donna morta duemila anni prima.
+    Quarantadue anni dopo, l'Eptich si risveglia.
+  </p>
+
+  <p class="occurrence-quote">«…»</p>
+
+</section>
 
 <section class="garden-occurrence in-phase">
 
@@ -44,21 +60,45 @@ alternate_en: https://tareldewhi.it/en/the-garden/
 
 </section>
 
+<section class="garden-occurrence interference">
 
-<section class="garden-occurrence out-of-phase">
-
-  <h3 class="occurrence-title">LE MADAI REINCARNATE</h3>
+  <h3 class="occurrence-title">LA CITTÀ CORRELATA</h3>
 
   <p class="occurrence-meta">
-    87–45 anni prima dell'Evento · <span>FUORI FASE</span>
+    L'Evento primario · <span>INTERFERENZA</span>
   </p>
 
   <p class="occurrence-text">
-    Aleksandra cresce una bambina nata dal corpo di una donna morta duemila anni prima.
-    Quarantadue anni dopo, l'Eptich si risveglia.
+    La città correlata. La città annientata. La città bruciata.
+    La città crisalide. La città nuova.
   </p>
 
-  <p class="occurrence-quote">«…»</p>
+  <blockquote class="occurrence-excerpt">
+
+    <p>
+      Poi, da qualche parte laggiù, qualcosa della città morente si sbriciolò
+      di schianto, con un ansito stanco seguito da un gorgoglio intermittente
+      che scosse il corpo di Telli come una foglia, lasciandola ammutolita.
+    </p>
+
+    <p>
+      Fu allora che Meros iniziò a comprendere la lingua dei morti.
+      A capire tutto ciò che il vocabolario dei vivi non poteva descrivere appieno.
+    </p>
+
+    <p>
+      «Viviamo una vita sospesa» – gli confermò Telli, in un bagno di lacrime.
+    </p>
+
+    <p>
+      «Ti pare giusto?!», gli disse con voce strozzata, rigettando ogni parola,
+      non riuscendo a trattenere oltre il fiume sotterraneo della rabbia che
+      attraversava la città in rovina. E soffocata da quella emozione, fece per
+      colpirlo; e lui avrebbe lasciato fare, ma ne uscì soltanto uno sgraziato
+      e feroce abbraccio che parve non avere fine.
+    </p>
+
+  </blockquote>
 
 </section>
 <div class="work-link">
