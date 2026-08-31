@@ -19,7 +19,43 @@ alternate_en: https://tareldewhi.it/en/the-garden/
 <br>
 <br>
 
+<section class="garden-occurrence in-phase">
 
+  <h3 class="occurrence-title">LA SUPERFICIE DEL QUADO</h3>
+
+  <p class="occurrence-meta">
+    poco prima dell'Evento · <span>IN FASE</span>
+  </p>
+
+  <p class="occurrence-text">
+    Dabo Aysè entra nella vita di Sussì con una lettera che avrebbe dovuto restare sepolta.
+  </p>
+
+  <p class="occurrence-quote">«…»</p>
+
+  <p class="occurrence-link">
+    <a href="#">Leggi un capitolo</a>
+  </p>
+
+</section>
+
+
+<section class="garden-occurrence out-of-phase">
+
+  <h3 class="occurrence-title">LE MADAI REINCARNATE</h3>
+
+  <p class="occurrence-meta">
+    87–45 anni prima dell'Evento · <span>FUORI FASE</span>
+  </p>
+
+  <p class="occurrence-text">
+    Aleksandra cresce una bambina nata dal corpo di una donna morta duemila anni prima.
+    Quarantadue anni dopo, l'Eptich si risveglia.
+  </p>
+
+  <p class="occurrence-quote">«…»</p>
+
+</section>
 <div class="work-link">
     <a href="/assets/PDF/x">PDF</a>
      | 
