@@ -87,15 +87,12 @@ Non volevo rifare lo stesso errore che avevo fatto in sogno con la mia Vedina.
 Non l’avrei mai persa di vista.</p>
 </blockquote>
 
-  
+</section>
 <div class="work-link">
   <a href="/assets/PDF/la-superficie-del-quado.pdf" download>
     PDF ↓ &nbsp;·&nbsp; Scarica un capitolo
   </a>
 </div>
-
-</section>
-
 <section class="garden-occurrence interference">
 
   <h3 class="occurrence-title">LA CITTÀ CORRELATA</h3>
