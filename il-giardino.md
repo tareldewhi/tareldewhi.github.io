@@ -52,8 +52,9 @@ alternate_en: https://tareldewhi.it/en/the-garden/
   </p>
 
   <p class="occurrence-text">
-    Un traffico clandestino porta la Naga lungo la costa proibita di Eliantir. <br>
-    Quello che Safasta crede uno scambio di reliquie è, in realtà, la previsione di un segnavento.
+  Safasta conduce la Naga verso Eliantir per uno scambio clandestino. <br> 
+  Ma il carico, gli uomini che devono riceverlo e un uragano in arrivo nascondono qualcosa che nessuno
+  a bordo è in grado di comprendere.
   </p>
 
   <p class="occurrence-quote">«…»</p>
