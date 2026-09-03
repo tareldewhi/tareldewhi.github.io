@@ -32,8 +32,8 @@ alternate_en: https://tareldewhi.it/en/the-garden/
   </p>
 
   <p class="occurrence-text">
-    Aleksandra cresce una bambina nata dal corpo di una donna morta duemila anni prima.
-    Quarantadue anni dopo, l'Eptich si risveglia.
+    Aleksandra Vessig cresce una bambina nata dal corpo di una donna morta duemila anni prima.
+    Quarantadue anni dopo, l'Eptich si risveglia e comunica a Inna Amedo le coordinate di dodicimila eventi.
   </p>
 
   <p class="occurrence-quote">«…»</p>
@@ -51,10 +51,7 @@ alternate_en: https://tareldewhi.it/en/the-garden/
   </p>
 
   <p class="occurrence-text">
-    Quattro mesi prima dell’Evento, Safasta conduce la Naga verso Eliantir
-    per uno scambio clandestino. Ma il carico, gli uomini che devono
-    riceverlo e una tempesta in arrivo nascondono qualcosa che nessuno
-    a bordo è in grado di comprendere.
+    Un traffico clandestino porta la Naga lungo la costa proibita di Eliantir. Quello che Safasta crede uno scambio di reliquie è in realtà la previsione di un segnavento.
   </p>
 
   <p class="occurrence-quote">«…»</p>
@@ -78,7 +75,7 @@ alternate_en: https://tareldewhi.it/en/the-garden/
   </p>
 
   <p class="occurrence-text">
-    Dabo Aysè entra nella vita di Sussì con una lettera che avrebbe dovuto restare sepolta.
+    Una lettera mai consegnata trascina tre giovani esteti lontano dalla loro vita privata, mentre l'Esedra vota la trasformazione degli strumenti organici in armi.
   </p>
 
   <p class="occurrence-quote">«…»</p>
