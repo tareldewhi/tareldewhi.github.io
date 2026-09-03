@@ -40,6 +40,35 @@ alternate_en: https://tareldewhi.it/en/the-garden/
 
 </section>
 
+<div class="occurrence-separator" aria-hidden="true"></div>
+
+<section class="garden-occurrence in-phase">
+
+  <h3 class="occurrence-title">LE STOFFE DI NEKKADI</h3>
+
+  <p class="occurrence-meta">
+    4 mesi prima dell'Evento · <span>IN FASE</span>
+  </p>
+
+  <p class="occurrence-text">
+    Quattro mesi prima dell’Evento, Safasta conduce la Naga verso Eliantir
+    per uno scambio clandestino. Ma il carico, gli uomini che devono
+    riceverlo e una tempesta in arrivo nascondono qualcosa che nessuno
+    a bordo è in grado di comprendere.
+  </p>
+
+  <p class="occurrence-quote">«…»</p>
+
+  <div class="work-link">
+    <a href="/assets/PDF/le-stoffe-di-nekkadi.pdf" download>PDF ↓</a>
+    &nbsp;·&nbsp;
+    Scarica un capitolo
+  </div>
+
+</section>
+
+<div class="occurrence-separator" aria-hidden="true"></div>
+
 <section class="garden-occurrence in-phase">
 
   <h3 class="occurrence-title">LA SUPERFICIE DEL QUADO</h3>
@@ -54,9 +83,11 @@ alternate_en: https://tareldewhi.it/en/the-garden/
 
   <p class="occurrence-quote">«…»</p>
 
-  <p class="occurrence-link">
-    <a href="#">Leggi un capitolo</a>
-  </p>
+<div class="work-link">
+  <a href="/assets/PDF/la-superficie-del-quado.pdf" download>
+    PDF ↓ &nbsp;·&nbsp; Scarica un capitolo
+  </a>
+</div>
 
 </section>
 
