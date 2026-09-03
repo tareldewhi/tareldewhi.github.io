@@ -460,3 +460,10 @@ blockquote {
     hyphens: none;
   }
 }
+.occurrence-separator {
+  width: 1px;
+  height: 44px;
+  margin: 2.75rem auto;
+  background: currentColor;
+  opacity: 0.22;
+}
