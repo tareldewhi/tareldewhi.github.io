@@ -391,8 +391,11 @@ blockquote {
 }
 
 .occurrence-quote {
-  margin: 1.2rem 0;
-  font-style: italic;
+  max-width: 30rem;
+  margin: 1.15rem auto 0;
+  font-size: 0.9rem;
+  line-height: 1.5;
+  opacity: 0.68;
 }
 
 .occurrence-link {
