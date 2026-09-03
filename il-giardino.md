@@ -79,12 +79,15 @@ alternate_en: https://tareldewhi.it/en/the-garden/
     Una lettera mai consegnata trascina tre giovani esteti lontano dalla loro vita privata, mentre l'Esedra vota la trasformazione degli strumenti organici in armi.
   </p>
 
-  <p class="occurrence-quote">Ve l’avevo già detto che Marì era la figlia di un generale? Che aveva quel coraggio di gettarsi nella mischia che solo un’idiota o uno sprovveduto possono avere? Che era un disastro nel pianificare la sua vita, ma che poteva essere la vostra migliore opzione nell’ora imminente della guerra?
+  <blockquote class="occurrence-excerpt">
+    <p>Ve l’avevo già detto che Marì era la figlia di un generale? Che aveva quel coraggio di gettarsi nella mischia che solo un’idiota o uno sprovveduto possono avere? Che era un disastro nel pianificare la sua vita, ma che poteva essere la vostra migliore opzione nell’ora imminente della guerra?
 <br>
 No. Io mi feci trovare aperta. Per lei.
 Non volevo rifare lo stesso errore che avevo fatto in sogno con la mia Vedina.
 Non l’avrei mai persa di vista.</p>
 
+  </blockquote>
+  
 <div class="work-link">
   <a href="/assets/PDF/la-superficie-del-quado.pdf" download>
     PDF ↓ &nbsp;·&nbsp; Scarica un capitolo
