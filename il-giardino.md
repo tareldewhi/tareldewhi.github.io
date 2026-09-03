@@ -28,12 +28,13 @@ alternate_en: https://tareldewhi.it/en/the-garden/
   <h3 class="occurrence-title">LE MADAI REINCARNATE</h3>
 
   <p class="occurrence-meta">
-    87–45 anni prima dell'Evento · <span>FUORI FASE</span>
+    193–4 anni prima dell'Evento · <span>FUORI FASE</span>
   </p>
 
   <p class="occurrence-text">
-    Aleksandra Vessig cresce una bambina nata dal corpo di una donna morta duemila anni prima.
-    Quarantadue anni dopo, l'Eptich si risveglia e comunica a Inna Amedo le coordinate di dodicimila eventi.
+  Aleksandra Vessig cresce senza amore una bambina nata dal corpo di una donna morta duemila anni prima. <br>
+  Quarantadue anni dopo, l’Eptich si risveglia e affida a Inna Amedo dodicimila coordinate nascoste nel Giardino.
+
   </p>
 
   <p class="occurrence-quote">«…»</p>
@@ -51,7 +52,8 @@ alternate_en: https://tareldewhi.it/en/the-garden/
   </p>
 
   <p class="occurrence-text">
-    Un traffico clandestino porta la Naga lungo la costa proibita di Eliantir. Quello che Safasta crede uno scambio di reliquie è in realtà la previsione di un segnavento.
+    Un traffico clandestino porta la Naga lungo la costa proibita di Eliantir. <br>
+    Quello che Safasta crede uno scambio di reliquie è, in realtà, la previsione di un segnavento.
   </p>
 
   <p class="occurrence-quote">«…»</p>
