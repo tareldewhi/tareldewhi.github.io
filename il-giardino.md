@@ -58,9 +58,9 @@ alternate_en: https://tareldewhi.it/en/the-garden/
   <p class="occurrence-quote">«…»</p>
 
   <div class="work-link">
-    <a href="/assets/PDF/le-stoffe-di-nekkadi.pdf" download>PDF ↓</a>
-    &nbsp;·&nbsp;
-    Scarica un capitolo
+    <a href="/assets/PDF/le-stoffe-di-nekkadi.pdf" download>PDF ↓
+    &nbsp;·&nbsp; Scarica un capitolo
+    </a>
   </div>
 
 </section>
@@ -79,20 +79,24 @@ alternate_en: https://tareldewhi.it/en/the-garden/
     Una lettera mai consegnata trascina tre giovani esteti lontano dalla loro vita privata, mentre l'Esedra vota la trasformazione degli strumenti organici in armi.
   </p>
 
-<blockquote class="occurrence-excerpt">
-    <p>Ve l’avevo già detto che Marì era la figlia di un generale? Che aveva quel coraggio di gettarsi nella mischia che solo un’idiota o uno sprovveduto possono avere? Che era un disastro nel pianificare la sua vita, ma che poteva essere la vostra migliore opzione nell’ora imminente della guerra?
+<p class="occurrence-quote">
+    Ve l’avevo già detto che Marì era la figlia di un generale? Che aveva quel coraggio di gettarsi nella mischia che solo un’idiota o uno sprovveduto possono avere? Che era un disastro nel pianificare la sua vita, ma che poteva essere la vostra migliore opzione nell’ora imminente della guerra?
 <br>
 No. Io mi feci trovare aperta. Per lei.
 Non volevo rifare lo stesso errore che avevo fatto in sogno con la mia Vedina.
 Non l’avrei mai persa di vista.</p>
-</blockquote>
 
-</section>
 <div class="work-link">
   <a href="/assets/PDF/la-superficie-del-quado.pdf" download>
     PDF ↓ &nbsp;·&nbsp; Scarica un capitolo
   </a>
 </div>
+
+</section>
+
+
+<div class="occurrence-separator" aria-hidden="true"></div>
+
 <section class="garden-occurrence interference">
 
   <h3 class="occurrence-title">LA CITTÀ CORRELATA</h3>
@@ -102,7 +106,7 @@ Non l’avrei mai persa di vista.</p>
   </p>
 
   <p class="occurrence-text">
-    La città correlata. La città annientata. La città bruciata.
+    La città correlata. La città annientata. 
     La città crisalide. La città nuova.
   </p>
 
@@ -123,11 +127,13 @@ Non l’avrei mai persa di vista.</p>
     </p>
 
   </blockquote>
-
-</section>
+  
 <div class="work-link">
-    <a href="/assets/PDF/x">PDF</a>
-     | 
-     <a href="/assets/PDF/x">PDF</a>
+  <a href="/assets/PDF/le-stoffe-di-nekkadi.pdf" download>
+    PDF ↓ &nbsp;·&nbsp; Scarica un capitolo
+  </a>
 </div>
+</section>
+
+
 
