@@ -86,6 +86,7 @@ No. Io mi feci trovare aperta. Per lei.
 Non volevo rifare lo stesso errore che avevo fatto in sogno con la mia Vedina.
 Non l’avrei mai persa di vista.</p>
 </blockquote>
+
   
 <div class="work-link">
   <a href="/assets/PDF/la-superficie-del-quado.pdf" download>
