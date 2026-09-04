@@ -97,8 +97,8 @@ alternate_en: https://tareldewhi.it/en/the-garden/
   </p>
 
   <p class="occurrence-text">
-    La città correlata. La città annientata. 
-    La città crisalide. La città nuova.
+    La Città Correlata. La Città Annientata. La Città Bruciata
+    La Città Crisalide. La Città Nuova.
   </p>
 
 <p class="occurrence-quote">
@@ -106,7 +106,8 @@ alternate_en: https://tareldewhi.it/en/the-garden/
       di schianto, con un ansito stanco seguito da un gorgoglio intermittente
       che scosse il corpo di Telli come una foglia, lasciandola ammutolita.<br>
       Fu allora che Meros iniziò a comprendere la lingua dei morti.
-      A capire tutto ciò che il vocabolario dei vivi non poteva descrivere appieno.<br>
+      A capire tutto ciò che il vocabolario dei vivi non poteva descrivere appieno.
+  <br><br>
       «Viviamo una vita sospesa» – gli confermò Telli, in un bagno di lacrime.<br>
       «Ti pare giusto?!», gli disse con voce strozzata, rigettando ogni parola,
       non riuscendo a trattenere oltre il fiume sotterraneo della rabbia che
@@ -115,14 +116,7 @@ alternate_en: https://tareldewhi.it/en/the-garden/
       e feroce abbraccio che parve non avere fine.
     </p>
 
-
-  
-<div class="work-link">
-  <a href="/assets/PDF/le-stoffe-di-nekkadi.pdf" download>
-    PDF ↓ &nbsp;·&nbsp; Scarica un capitolo
-  </a>
-</div>
 </section>
 
-
+<div class="occurrence-separator" aria-hidden="true"></div>
 
