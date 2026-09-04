@@ -55,8 +55,6 @@ alternate_en: https://tareldewhi.it/en/the-garden/
   a bordo è in grado di comprendere.
   </p>
 
-  <p class="occurrence-quote">«…»</p>
-
   <div class="work-link">
     <a href="/assets/PDF/le-stoffe-di-nekkadi.pdf" download>PDF ↓
     &nbsp;·&nbsp; Scarica un capitolo
