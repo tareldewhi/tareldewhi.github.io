@@ -36,8 +36,6 @@ alternate_en: https://tareldewhi.it/en/the-garden/
 
   </p>
 
-  <p class="occurrence-quote">«…»</p>
-
 </section>
 
 <div class="occurrence-separator" aria-hidden="true"></div>
