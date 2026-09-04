@@ -74,7 +74,7 @@ alternate_en: https://tareldewhi.it/en/the-garden/
   <p class="occurrence-text">
     Una lettera mai consegnata trascina tre giovani esteti lontano dalla loro vita privata, mentre l'Esedra vota la trasformazione degli strumenti organici in armi.
   </p>
-<br>
+
 <div class="work-link">
   <a href="/assets/PDF/la-superficie-del-quado.pdf" download>
     PDF ↓ &nbsp;·&nbsp; Scarica un capitolo
