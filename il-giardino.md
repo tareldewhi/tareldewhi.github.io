@@ -112,6 +112,9 @@ alternate_en: https://tareldewhi.it/en/the-garden/
       attraversava la città in rovina. E soffocata da quella emozione, fece per
       colpirlo; e lui avrebbe lasciato fare, ma ne uscì soltanto uno sgraziato
       e feroce abbraccio che parve non avere fine.
+
+      L'intimità che Meros e Telli non avevano sperimentato quando si erano ritrovati a letto assieme, la provarono ora, finalmente. 
+      <br>Sapeva di asfalto perché entrambi si portavano sulla schiena tutto il peso della loro gente. 
     </p>
 
 </section>
