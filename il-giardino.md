@@ -118,3 +118,68 @@ alternate_en: https://tareldewhi.it/en/the-garden/
 
 <div class="occurrence-separator" aria-hidden="true"></div>
 
+<section class="garden-occurrence in-phase">
+
+  <h3 class="occurrence-title">LO SCAFFALE DELLA GUERRA</h3>
+
+  <p class="occurrence-meta">
+    3 mesi dopo l'Evento · <span>IN FASE</span>
+  </p>
+
+  <p class="occurrence-text">
+  Meros Delastivére arriva a Kithum per conto dell’Accademia e cerca di ricostruire tutto ciò che è accaduto durante l’attacco. <br> Telli, una sopravvissuta, accetta di accompagnarlo nella Città Nuova.
+  </p>
+
+</section>
+
+<div class="occurrence-separator" aria-hidden="true"></div>
+
+<section class="garden-occurrence out-of-phase">
+
+  <h3 class="occurrence-title">AHANIA</h3>
+
+  <p class="occurrence-meta">
+    3 anni dopo l'Evento · <span>FUORI FASE</span>
+  </p>
+
+  <p class="occurrence-text">
+  Qualcuno decide finalmente di entrare nella dimora di Aleksandra Vessig e Ahania viene espulsa nel tempo ordinario.
+
+  </p>
+
+</section>
+
+<div class="occurrence-separator" aria-hidden="true"></div>
+
+<section class="garden-occurrence in-phase">
+
+  <h3 class="occurrence-title">LA GENTE DEL VUOTO</h3>
+
+  <p class="occurrence-meta">
+    8 anni e 3 mesi dopo l'Evento · <span>IN FASE</span>
+  </p>
+
+  <p class="occurrence-text">
+    Kurt segue Ahania in Eliantir e raggiunge un ponte che non riesce ad attraversare.  
+  </p>
+
+<div class="work-link">
+  <a href="/assets/PDF/il corridoio sopra il cielo.pdf" download>
+    PDF ↓ &nbsp;·&nbsp; Scarica un capitolo
+  </a>
+</div>
+
+</section>
+
+<div class="occurrence-separator" aria-hidden="true"></div>
+
+
+<section class="garden-occurrence in-phase">
+
+  <h3 class="occurrence-title">EPILOGO - TESPI</h3>
+
+  <p class="occurrence-meta">
+    8 anni e 6 mesi dopo l'Evento · <span>FUORI FASE</span>
+  </p>
+
+</section>
