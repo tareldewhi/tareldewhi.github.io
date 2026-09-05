@@ -68,7 +68,7 @@ alternate_en: https://tareldewhi.it/en/the-garden/
   <h3 class="occurrence-title">LA SUPERFICIE DEL QUADO</h3>
 
   <p class="occurrence-meta">
-    poco prima dell'Evento · <span>IN FASE</span>
+    circa una settimana prima dell'Evento · <span>IN FASE</span>
   </p>
 
   <p class="occurrence-text">
