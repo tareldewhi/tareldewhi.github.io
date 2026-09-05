@@ -95,7 +95,7 @@ alternate_en: https://tareldewhi.it/en/the-garden/
   </p>
 
   <p class="occurrence-text">
-    La Città Correlata. La Città Annientata. La Città Bruciata
+    La Città Correlata. La Città Annientata. La Città Bruciata.
     La Città Crisalide. La Città Nuova.
   </p>
 
