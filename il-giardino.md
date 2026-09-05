@@ -174,7 +174,7 @@ alternate_en: https://tareldewhi.it/en/the-garden/
 <div class="occurrence-separator" aria-hidden="true"></div>
 
 
-<section class="garden-occurrence in-phase">
+<section class="garden-occurrence out-of-phase">
 
   <h3 class="occurrence-title">EPILOGO - TESPI</h3>
 
