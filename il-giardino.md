@@ -113,8 +113,7 @@ alternate_en: https://tareldewhi.it/en/the-garden/
       colpirlo; e lui avrebbe lasciato fare, ma ne uscì soltanto uno sgraziato
       e feroce abbraccio che parve non avere fine.
  <br><br>
-      L'intimità che Meros e Telli non avevano sperimentato quando si erano ritrovati a letto assieme, la provarono ora, finalmente. 
-      <br>Sapeva di asfalto perché entrambi si portavano sulla schiena tutto il peso della loro gente. 
+      L'intimità che Meros e Telli non avevano sperimentato quando si erano ritrovati a letto assieme, la provarono ora, finalmente. Sapeva di asfalto perché entrambi si portavano sulla schiena tutto il peso della loro gente. 
     </p>
 
 </section>
