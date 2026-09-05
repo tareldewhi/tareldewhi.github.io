@@ -166,7 +166,7 @@ alternate_en: https://tareldewhi.it/en/the-garden/
   </p>
 
 <div class="work-link">
-  <a href="/assets/PDF/il corridoio sopra il cielo.pdf" download>
+  <a href="/assets/PDF/la gente del vuoto.pdf" download>
     PDF ↓ &nbsp;·&nbsp; Scarica un capitolo
   </a>
 </div>
