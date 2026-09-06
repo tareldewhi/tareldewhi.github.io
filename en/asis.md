@@ -47,5 +47,5 @@ alternate_en: https://tareldewhi.it/en/asis/
 <div class="work-info"> A short article about my experience in <em>A Sign in Space</em> · March 2026 · 3 pages · 5–10 min read
 <br></div>
 <div class="work-link">
-    <a href="/assets/PDF/La forma del messaggio-Max Gardin.pdf">Read the PDF <em>(In Italian) →</em></a>
+    <a href="/assets/PDF/La forma del messaggio-Max Gardin.pdf">Read the PDF <em>(In Italian) ↓</em></a>
 </div>
