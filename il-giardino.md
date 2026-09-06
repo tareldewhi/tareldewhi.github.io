@@ -206,7 +206,9 @@ alternate_en: https://tareldewhi.it/en/the-garden/
       </p>
 
       <p class="theory-path-title">
-        <i>«La parola che ha rivoluzionato il mondo»</i>
+        <i>«La parola che ha rivoluzionato il mondo. Discorso per
+        l’inaugurazione dell’anno accademico 679/680 in occasione
+        del cinquecentenario della teoria della vexa»</i>
       </p>
 
       <p class="theory-document-meta">
