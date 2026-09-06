@@ -202,13 +202,11 @@ alternate_en: https://tareldewhi.it/en/the-garden/
       <h3>PER QUELLI COME LORO</h3>
 
       <p class="theory-version">
-        VERSIONE PER MASOCHISTI
+        VERSIONE PER MASOCHISTI  <span class="theory-emoticon">X_X</span>
       </p>
 
       <p class="theory-path-title">
-        <i>«La parola che ha rivoluzionato il mondo. Discorso per
-        l’inaugurazione dell’anno accademico 679/680 in occasione
-        del cinquecentenario della teoria della vexa»</i>
+        <i>«La parola che ha rivoluzionato il mondo»</i>
       </p>
 
       <p class="theory-document-meta">
@@ -219,7 +217,7 @@ alternate_en: https://tareldewhi.it/en/the-garden/
       <p class="theory-description">
         La lezione di Salma sulla fisica degli spazi unitari,
         nella sua fantastica versione completa.
-        <span class="theory-emoticon">X_X</span>
+       
       </p>
 
       <div class="work-link">
@@ -236,16 +234,16 @@ alternate_en: https://tareldewhi.it/en/the-garden/
       <h3>PER QUELLI COME TE</h3>
 
       <p class="theory-version">
-        VERSIONE FELICE
+        VERSIONE FELICE  <span class="theory-heart">&lt;3</span>
       </p>
 
       <p class="theory-path-title">
-        <i>Te lo spiego con un disegnino.</i>
+        <i>Te lo spiego con un disegnino?</i>
       </p>
 
       <p class="theory-description">
         Versione ultrasemplice a fumetti
-        <span class="theory-heart">&lt;3</span>
+       
       </p>
 
       <div class="work-link">
