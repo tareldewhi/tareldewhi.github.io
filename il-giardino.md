@@ -12,7 +12,7 @@ alternate_en: https://tareldewhi.it/en/the-garden/
 
 <br><br>
 <div class="work-title"><b>Il giardino degli spazi ritorti</b></div>
-<div class="work-info">Romanzo di fantascienza | 2017-... caratteri · xx pagine · xx minuti di lettura</div>
+<div class="work-info">Romanzo di fantascienza | dal 2017 · oltre 200 pagine di narrazione</div>
 <br>
 <p class="work-status">
   <i>Il Giardino degli Spazi Ritorti</i> è un romanzo in lavorazione.<br>
