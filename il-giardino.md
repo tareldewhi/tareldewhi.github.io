@@ -234,7 +234,7 @@ alternate_en: https://tareldewhi.it/en/the-garden/
 
       <div class="theory-document">
         <p class="theory-path-title">
-          <i>Te lo spiego io con un disegnino!!!</i>
+          <i>Te la spiego io con un disegnino!!!</i>
         </p>
         <p class="theory-document-meta">
           Se ti stai chiedendo chi siano quelli come te è il momento giusto di andare di fronte ad uno specchio è fare ciao ciao con la manina.
@@ -242,7 +242,7 @@ alternate_en: https://tareldewhi.it/en/the-garden/
       </div>
 
       <p class="theory-description">
-        Te la spiega la Porta in versione ultrasemplice a fumetti.
+        La fisica degli spazi unitari spiegata dalla Porta in versione ultrasemplice e a fumetti.
       </p>
 
       <div class="work-link">
