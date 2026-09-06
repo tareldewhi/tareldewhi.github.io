@@ -260,6 +260,4 @@ alternate_en: https://tareldewhi.it/en/the-garden/
 
 </section>
 
-  </div>
-
-</section>
+ 
