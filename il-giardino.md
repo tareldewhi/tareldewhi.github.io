@@ -201,10 +201,6 @@ alternate_en: https://tareldewhi.it/en/the-garden/
 
       <h3>PER QUELLI COME LORO</h3>
 
-      <p class="theory-version">
-        VERSIONE PER MASOCHISTI  <span class="theory-emoticon">X_X</span>
-      </p>
-
       <p class="theory-path-title">
         <i>«La parola che ha rivoluzionato il mondo. Discorso per
         l’inaugurazione dell’anno accademico 679/680 in occasione
@@ -224,7 +220,7 @@ alternate_en: https://tareldewhi.it/en/the-garden/
 
       <div class="work-link">
         <a href="/assets/PDF/la-macchina-teorica.pdf" download>
-          PDF ↓ &nbsp;·&nbsp; La macchina teorica
+          PDF ↓ &nbsp;·&nbsp; Sì! Voglio farmi del male!!! X_X
         </a>
       </div>
 
@@ -234,10 +230,6 @@ alternate_en: https://tareldewhi.it/en/the-garden/
     <div class="theory-path">
 
       <h3>PER QUELLI COME TE</h3>
-
-      <p class="theory-version">
-        VERSIONE FELICE  <span class="theory-heart">&lt;3</span>
-      </p>
 
       <p class="theory-path-title">
         <i>Te lo spiego con un disegnino?</i>
@@ -250,7 +242,7 @@ alternate_en: https://tareldewhi.it/en/the-garden/
 
       <div class="work-link">
         <a href="/assets/PDF/te-lo-spiego-con-un-disegnino.pdf" download>
-          PDF ↓ &nbsp;·&nbsp; Te lo spiego con un disegnino
+          PDF ↓ &nbsp;·&nbsp; Versione felice <3
         </a>
       </div>
 
