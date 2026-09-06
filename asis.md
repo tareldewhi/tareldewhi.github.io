@@ -34,7 +34,7 @@ sulla comunicazione interspecie.
 <div class="work-info">Un articolo divulgativo sulla mia esperienza in <em>A Sign in Space</em> · marzo 2026 · 3 pagine · 5-10 minuti di lettura 
 <br></div>
 <div class="work-link">
-    <a href="/assets/PDF/La forma del messaggio-Max Gardin.pdf">Leggi in PDF <span class="link-arrow" aria-hidden="true">→</span></a>
+    <a href="/assets/PDF/La forma del messaggio-Max Gardin.pdf">Leggi in PDF <span class="link-arrow" aria-hidden="true">↓</span></a>
 </div>
 
 
