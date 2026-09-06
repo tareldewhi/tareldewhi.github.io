@@ -221,7 +221,7 @@ alternate_en: https://tareldewhi.it/en/the-garden/
 
       <div class="work-link">
         <a href="/assets/PDF/la-macchina-teorica.pdf" download>
-          PDF ↓ &nbsp;·&nbsp; Voglio farmi del male!!! X_X
+          PDF ↓ &nbsp;·&nbsp; Voglio farmi del male! X_X
         </a>
       </div>
 
@@ -234,7 +234,7 @@ alternate_en: https://tareldewhi.it/en/the-garden/
 
       <div class="theory-document">
         <p class="theory-path-title">
-          <i>Te la spiego io con un disegnino!!!</i>
+          <i>Te la spiego io con un disegnino!</i>
         </p>
         <p class="theory-document-meta">
           Se ti stai chiedendo chi siano quelli come te è il momento giusto di andare di fronte ad uno specchio è fare ciao ciao con la manina.
