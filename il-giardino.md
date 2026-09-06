@@ -2,7 +2,7 @@
 layout: default
 title: Il giardino degli spazi ritorti
 lang: it
-permalink: /il-giardinoWIP/
+permalink: /il-giardino/
 alternate_it: https://tareldewhi.it/il-giardino/
 alternate_en: https://tareldewhi.it/en/the-garden/
 ---
