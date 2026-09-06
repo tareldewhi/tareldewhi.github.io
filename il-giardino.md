@@ -242,7 +242,7 @@ alternate_en: https://tareldewhi.it/en/the-garden/
       </p>
 
       <p class="theory-description">
-        Versione ultrasemplice a fumetti
+        La fisica degli spazi unitari spiegata dalla Porta in versione ultrasemplice a fumetti carini
        
       </p>
 
