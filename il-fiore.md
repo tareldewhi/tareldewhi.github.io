@@ -20,7 +20,7 @@ Una storia su amicizia, memoria, intelligenze artificiali, singolarità cosmiche
 
 
 <div class="work-link">
-    <a href="/assets/PDF/Il Fiore-Max Gardin.pdf">PDF <span class="link-arrow" aria-hidden="true">→</span></a>
+    <a href="/assets/PDF/Il Fiore-Max Gardin.pdf">PDF <span class="link-arrow" aria-hidden="true">↓</span></a>
      | 
     <a href="https://medium.com/@blu.di.rlyeh/il-fiore-la-vera-storia-di-chiara-e-vall%C3%AC-9af155ce5d20">Leggi su Medium <span class="link-arrow" aria-hidden="true">↗</span></a>
 </div>
