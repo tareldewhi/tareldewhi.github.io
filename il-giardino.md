@@ -201,26 +201,27 @@ alternate_en: https://tareldewhi.it/en/the-garden/
 
       <h3>PER QUELLI COME LORO</h3>
 
-      <p class="theory-path-title">
-        <i>«La parola che ha rivoluzionato il mondo. Discorso per
-        l’inaugurazione dell’anno accademico 679/680 in occasione
-        del cinquecentenario della teoria della vexa»</i>
-      </p>
+      <div class="theory-document">
+        <p class="theory-path-title">
+          <i>«La parola che ha rivoluzionato il mondo. Discorso per
+          l’inaugurazione dell’anno accademico 679/680 in occasione
+          del cinquecentenario della teoria della vexa»</i>
+        </p>
 
-      <p class="theory-document-meta">
-        Facoltà di cibernetica di Tarás Amon<br>
-        Salma Bottu-Riemen · 12 Terzo 679
-      </p>
+        <p class="theory-document-meta">
+          Facoltà di cibernetica di Tarás Amon<br>
+          Salma Bottu-Riemen · 12 Terzo 679
+        </p>
+      </div>
 
       <p class="theory-description">
         La lezione di Salma sulla fisica degli spazi unitari,
         nella sua fantastica versione completa.
-       
       </p>
 
       <div class="work-link">
         <a href="/assets/PDF/la-macchina-teorica.pdf" download>
-          PDF ↓ &nbsp;·&nbsp; Sì! Voglio farmi del male!!! X_X
+          PDF ↓ &nbsp;·&nbsp; Voglio farmi del male!!! X_X
         </a>
       </div>
 
@@ -231,18 +232,19 @@ alternate_en: https://tareldewhi.it/en/the-garden/
 
       <h3>PER QUELLI COME TE</h3>
 
-      <p class="theory-path-title">
-        <i>Te lo spiego con un disegnino?</i>
-      </p>
+      <div class="theory-document">
+        <p class="theory-path-title">
+          <i>Te lo spiego con un disegnino.</i>
+        </p>
+      </div>
 
       <p class="theory-description">
-        La fisica degli spazi unitari spiegata dalla Porta in versione ultrasemplice a fumetti carini
-       
+        Versione ultrasemplice a fumetti.
       </p>
 
       <div class="work-link">
         <a href="/assets/PDF/te-lo-spiego-con-un-disegnino.pdf" download>
-          PDF ↓ &nbsp;·&nbsp; Versione felice <3
+          PDF ↓ &nbsp;·&nbsp; Versione felice &lt;3
         </a>
       </div>
 
@@ -251,5 +253,4 @@ alternate_en: https://tareldewhi.it/en/the-garden/
   </div>
 
 </section>
-
  
