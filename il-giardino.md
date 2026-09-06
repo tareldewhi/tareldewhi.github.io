@@ -201,43 +201,64 @@ alternate_en: https://tareldewhi.it/en/the-garden/
 
       <h3>PER QUELLI COME LORO</h3>
 
-      <p class="theory-path-title">
-        <i>La macchina teorica</i>
+      <p class="theory-version">
+        VERSIONE PER MASOCHISTI
       </p>
 
-      <p>
+      <p class="theory-path-title">
+        <i>«La parola che ha rivoluzionato il mondo. Discorso per
+        l’inaugurazione dell’anno accademico 679/680 in occasione
+        del cinquecentenario della teoria della vexa»</i>
+      </p>
+
+      <p class="theory-document-meta">
+        Facoltà di cibernetica di Tarás Amon<br>
+        Salma Bottu-Riemen · 12 Terzo 679
+      </p>
+
+      <p class="theory-description">
         La lezione di Salma sulla fisica degli spazi unitari,
-        nella sua versione completa.
+        nella sua fantastica versione completa.
+        <span class="theory-emoticon">X_X</span>
       </p>
 
       <div class="work-link">
         <a href="/assets/PDF/la-macchina-teorica.pdf" download>
-          PDF ↓ &nbsp;·&nbsp; Versione per masochisti
+          PDF ↓ &nbsp;·&nbsp; La macchina teorica
         </a>
       </div>
 
     </div>
+
 
     <div class="theory-path">
 
       <h3>PER QUELLI COME TE</h3>
 
-      <p class="theory-path-title">
-        <i>La fisica degli spazi unitari spiegata dalla Porta</i>
+      <p class="theory-version">
+        VERSIONE FELICE
       </p>
 
-      <p>
-        Disegni, esempi e scorciatoie per capire le stesse cose
-        senza affrontare una lezione universitaria.
+      <p class="theory-path-title">
+        <i>Te lo spiego con un disegnino.</i>
+      </p>
+
+      <p class="theory-description">
+        Versione ultrasemplice a fumetti
+        <span class="theory-heart">&lt;3</span>
       </p>
 
       <div class="work-link">
-        <a href="/assets/PDF/la-fisica-spiegata-dalla-porta.pdf" download>
-          PDF ↓ &nbsp;·&nbsp; Versione felice
+        <a href="/assets/PDF/te-lo-spiego-con-un-disegnino.pdf" download>
+          PDF ↓ &nbsp;·&nbsp; Te lo spiego con un disegnino
         </a>
       </div>
 
     </div>
+
+  </div>
+
+</section>
 
   </div>
 
