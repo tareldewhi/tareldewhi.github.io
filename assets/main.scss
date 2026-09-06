@@ -491,20 +491,31 @@ blockquote {
 
 .garden-theory-intro {
   max-width: 36rem;
-  margin: 0 auto 3rem;
+  margin: 0 auto 3.5rem;
   text-align: center;
   font-size: 0.95rem;
   line-height: 1.55;
   opacity: 0.7;
 }
 
+
+/* --- struttura a due colonne --- */
+
 .garden-theory-grid {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  gap: 0;
+  grid-template-rows: auto auto auto auto;
+  column-gap: 0;
 }
 
+
+/* Le due colonne condividono le stesse quattro righe:
+   titolo / documento / descrizione / PDF */
+
 .theory-path {
+  display: grid;
+  grid-template-rows: subgrid;
+  grid-row: 1 / span 4;
   padding: 0 2rem;
 }
 
@@ -512,19 +523,23 @@ blockquote {
   border-left: 1px solid rgba(0, 0, 0, 0.18);
 }
 
+
+/* --- PER QUELLI COME... --- */
+
 .theory-path h3 {
   margin: 0;
+  padding-bottom: 1.8rem;
   text-align: center;
   font-size: 1rem;
+  line-height: 1.25;
   letter-spacing: 0.04em;
 }
 
-.theory-version {
-  margin: 0.35rem 0 1.6rem;
-  text-align: center;
-  font-size: 0.72rem;
-  letter-spacing: 0.08em;
-  opacity: 0.55;
+
+/* --- titolo del documento --- */
+
+.theory-document {
+  padding-bottom: 1.5rem;
 }
 
 .theory-path-title {
@@ -535,35 +550,33 @@ blockquote {
 }
 
 .theory-document-meta {
-  margin: 0 0 1.4rem;
+  margin: 0;
   text-align: center;
   font-size: 0.78rem;
   line-height: 1.45;
   opacity: 0.65;
 }
 
+
+/* --- descrizione --- */
+
 .theory-description {
   margin: 0;
+  padding-bottom: 1.5rem;
   line-height: 1.55;
 }
 
-.theory-emoticon,
-.theory-heart {
-  white-space: nowrap;
-}
 
-.theory-emoticon {
-  margin-left: 0.25rem;
-}
-
-.theory-heart {
-  margin-left: 0.15rem;
-}
+/* --- download --- */
 
 .theory-path .work-link {
-  margin-top: 1.5rem;
+  align-self: end;
+  margin: 0;
   text-align: center;
 }
+
+
+/* --- mobile --- */
 
 @media screen and (max-width: 650px) {
 
@@ -572,21 +585,34 @@ blockquote {
   }
 
   .garden-theory-intro {
-    margin-bottom: 2.5rem;
+    margin-bottom: 3rem;
   }
 
   .garden-theory-grid {
-    grid-template-columns: 1fr;
+    display: block;
   }
 
   .theory-path {
+    display: block;
     padding: 0;
   }
 
   .theory-path + .theory-path {
     border-left: 0;
     border-top: 1px solid rgba(0, 0, 0, 0.18);
-    margin-top: 2.75rem;
-    padding-top: 2.75rem;
+    margin-top: 3rem;
+    padding-top: 3rem;
+  }
+
+  .theory-path h3 {
+    padding-bottom: 1.6rem;
+  }
+
+  .theory-document {
+    padding-bottom: 1.4rem;
+  }
+
+  .theory-description {
+    padding-bottom: 1.4rem;
   }
 }
