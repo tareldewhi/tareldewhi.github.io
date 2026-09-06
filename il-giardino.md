@@ -234,12 +234,15 @@ alternate_en: https://tareldewhi.it/en/the-garden/
 
       <div class="theory-document">
         <p class="theory-path-title">
-          <i>Te lo spiego con un disegnino.</i>
+          <i>Te lo spiego io con un disegnino!!!</i>
+        </p>
+        <p class="theory-document-meta">
+          Se ti stai chiedendo chi siano quelli come te è il momento giusto di andare di fronte ad uno specchio è fare ciao ciao con la manina.
         </p>
       </div>
 
       <p class="theory-description">
-        Versione ultrasemplice a fumetti.
+        Te la spiega la Porta in versione ultrasemplice a fumetti.
       </p>
 
       <div class="work-link">
