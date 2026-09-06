@@ -49,7 +49,7 @@ alternate_en: https://tareldewhi.it/en/the-garden/
   </p>
 
   <p class="occurrence-text">
-  Safasta conduce la Naga verso Eliantir per uno scambio clandestino. Ma il carico, gli uomini che devono riceverlo e un uragano in arrivo nascondono qualcosa che nessuno
+  Safasta Murro conduce la Naga verso Eliantir per uno scambio clandestino. Ma il carico, gli uomini che devono riceverlo e un uragano in arrivo nascondono qualcosa che nessuno
   a bordo è in grado di comprendere.
   </p>
 
@@ -162,7 +162,7 @@ alternate_en: https://tareldewhi.it/en/the-garden/
   </p>
 
   <p class="occurrence-text">
-    Kurt segue Ahania in Eliantir e raggiunge un ponte che non riesce ad attraversare.  
+    Kurt segue Ahania in Eliantir e raggiunge un ponte che impiegherà sei giorni ad attraversare.  
   </p>
 
 <div class="work-link">
