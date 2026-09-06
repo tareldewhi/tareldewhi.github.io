@@ -198,8 +198,12 @@ alternate_en: https://tareldewhi.it/en/the-garden/
   <div class="garden-theory-grid">
 
     <div class="theory-path">
+
       <h3>PER QUELLI COME LORO</h3>
-      <p><i>La macchina teorica</i></p>
+
+      <p class="theory-path-title">
+        <i>La macchina teorica</i>
+      </p>
 
       <p>
         La lezione di Salma sulla fisica degli spazi unitari,
@@ -211,11 +215,16 @@ alternate_en: https://tareldewhi.it/en/the-garden/
           PDF ↓ &nbsp;·&nbsp; Versione per masochisti
         </a>
       </div>
+
     </div>
 
     <div class="theory-path">
+
       <h3>PER QUELLI COME TE</h3>
-      <p><i>La fisica degli spazi unitari spiegata dalla Porta</i></p>
+
+      <p class="theory-path-title">
+        <i>La fisica degli spazi unitari spiegata dalla Porta</i>
+      </p>
 
       <p>
         Disegni, esempi e scorciatoie per capire le stesse cose
@@ -227,6 +236,7 @@ alternate_en: https://tareldewhi.it/en/the-garden/
           PDF ↓ &nbsp;·&nbsp; Versione felice
         </a>
       </div>
+
     </div>
 
   </div>
