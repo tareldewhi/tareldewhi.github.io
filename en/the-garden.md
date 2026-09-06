@@ -2,7 +2,7 @@
 layout: default
 title: The Garden of Twisted Spaces
 lang: en
-permalink: /en/the-gardenWIP/
+permalink: /en/the-garden/
 alternate_it: https://tareldewhi.it/il-giardinoWIP/
 alternate_en: https://tareldewhi.it/en/the-gardenWIP/
 ---
