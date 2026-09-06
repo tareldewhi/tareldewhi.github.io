@@ -185,3 +185,50 @@ alternate_en: https://tareldewhi.it/en/the-garden/
   </p>
 
 </section>
+
+
+<section class="garden-theory">
+
+  <h2 class="garden-theory-title">LA FISICA DEGLI SPAZI UNITARI</h2>
+
+  <p class="garden-theory-intro">
+    Due modi diversi per capire cosa sta succedendo.
+  </p>
+
+  <div class="garden-theory-grid">
+
+    <div class="theory-path">
+      <h3>PER QUELLI COME LORO</h3>
+      <p><i>La macchina teorica</i></p>
+
+      <p>
+        La lezione di Salma sulla fisica degli spazi unitari,
+        nella sua versione completa.
+      </p>
+
+      <div class="work-link">
+        <a href="/assets/PDF/la-macchina-teorica.pdf" download>
+          PDF ↓ &nbsp;·&nbsp; Versione per masochisti
+        </a>
+      </div>
+    </div>
+
+    <div class="theory-path">
+      <h3>PER QUELLI COME TE</h3>
+      <p><i>La fisica degli spazi unitari spiegata dalla Porta</i></p>
+
+      <p>
+        Disegni, esempi e scorciatoie per capire le stesse cose
+        senza affrontare una lezione universitaria.
+      </p>
+
+      <div class="work-link">
+        <a href="/assets/PDF/la-fisica-spiegata-dalla-porta.pdf" download>
+          PDF ↓ &nbsp;·&nbsp; Versione felice
+        </a>
+      </div>
+    </div>
+
+  </div>
+
+</section>
