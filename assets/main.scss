@@ -513,21 +513,51 @@ blockquote {
 }
 
 .theory-path h3 {
-  margin: 0 0 0.4rem;
+  margin: 0;
   text-align: center;
   font-size: 1rem;
   letter-spacing: 0.04em;
 }
 
-.theory-path-title {
-  margin: 0 0 1.2rem;
+.theory-version {
+  margin: 0.35rem 0 1.6rem;
   text-align: center;
-  font-size: 1.05rem;
-  line-height: 1.35;
+  font-size: 0.72rem;
+  letter-spacing: 0.08em;
+  opacity: 0.55;
 }
 
-.theory-path > p:not(.theory-path-title) {
+.theory-path-title {
+  margin: 0 0 0.8rem;
+  text-align: center;
+  font-size: 1rem;
+  line-height: 1.4;
+}
+
+.theory-document-meta {
+  margin: 0 0 1.4rem;
+  text-align: center;
+  font-size: 0.78rem;
+  line-height: 1.45;
+  opacity: 0.65;
+}
+
+.theory-description {
+  margin: 0;
   line-height: 1.55;
+}
+
+.theory-emoticon,
+.theory-heart {
+  white-space: nowrap;
+}
+
+.theory-emoticon {
+  margin-left: 0.25rem;
+}
+
+.theory-heart {
+  margin-left: 0.15rem;
 }
 
 .theory-path .work-link {
