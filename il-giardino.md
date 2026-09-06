@@ -237,7 +237,7 @@ alternate_en: https://tareldewhi.it/en/the-garden/
           <i>Te la spiego io con un disegnino!</i>
         </p>
         <p class="theory-document-meta">
-          Se ti stai chiedendo chi siano quelli come te è il momento giusto di andare di fronte ad uno specchio è fare ciao ciao con la manina.
+          Se ti stai chiedendo chi siano quelli come te è il momento giusto di andare di fronte ad uno specchio e fare ciao ciao con la manina.
         </p>
       </div>
 
