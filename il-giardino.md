@@ -246,7 +246,7 @@ alternate_en: https://tareldewhi.it/en/the-garden/
       </p>
 
       <div class="work-link">
-        <a href="/assets/PDF/te-lo-spiego-con-un-disegnino.pdf" download>
+        <a href="/assets/PDF/Te lo spiego io con un disegnino.pdf" download>
           PDF ↓ &nbsp;·&nbsp; Versione felice &lt;3
         </a>
       </div>
