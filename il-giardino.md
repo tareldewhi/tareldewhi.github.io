@@ -54,7 +54,7 @@ alternate_en: https://tareldewhi.it/en/the-garden/
   </p>
 
   <div class="work-link">
-    <a href="/assets/PDF/le-stoffe-di-nekkadi.pdf" download>PDF ↓
+    <a href="/assets/PDF/Le stoffe di Nekkadi.pdf" download>PDF ↓
     &nbsp;·&nbsp; Scarica un capitolo
     </a>
   </div>
