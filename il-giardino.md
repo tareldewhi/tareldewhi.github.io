@@ -76,7 +76,7 @@ alternate_en: https://tareldewhi.it/en/the-garden/
   </p>
 
 <div class="work-link">
-  <a href="/assets/PDF/la-superficie-del-quado.pdf" download>
+  <a href="/assets/PDF/La superficie del quado.pdf" download>
     PDF ↓ &nbsp;·&nbsp; Scarica un capitolo
   </a>
 </div>
