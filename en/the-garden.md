@@ -131,7 +131,7 @@ alternate_en: https://tareldewhi.it/en/the-gardenWIP/
   </p>
 
   <p class="occurrence-text">
-    Meros Delastivére arrives in Kithum on behalf of the Academy and tries to reconstruct everything that happened during the attack. <br>
+    Meros Delastivére arrives in Kithum on behalf of the Imperial Academy and tries to reconstruct everything that happened during the attack. <br>
     Telli, a survivor, agrees to accompany him into the New City.
   </p>
 
