@@ -129,7 +129,7 @@ alternate_en: https://tareldewhi.it/en/the-garden/
   </p>
 
   <p class="occurrence-text">
-  Meros Delastivére arriva a Kithum per conto dell’Accademia e cerca di ricostruire tutto ciò che è accaduto durante l’attacco. <br> Telli, una sopravvissuta, accetta di accompagnarlo nella Città Nuova.
+  Meros Delastivére arriva a Kithum per conto dell’Accademia Imperiale e cerca di ricostruire tutto ciò che è accaduto durante l’attacco. <br> Telli, una sopravvissuta, accetta di accompagnarlo nella Città Nuova.
   </p>
 
 </section>
