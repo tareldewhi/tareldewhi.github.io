@@ -166,7 +166,7 @@ alternate_en: https://tareldewhi.it/en/the-garden/
   </p>
 
 <div class="work-link">
-  <a href="/assets/PDF/la gente del vuoto.pdf" download>
+  <a href="/assets/PDF/La gente del Vuoto.pdf" download>
     PDF ↓ &nbsp;·&nbsp; Scarica un capitolo
   </a>
 </div>
